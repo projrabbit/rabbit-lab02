@@ -1,0 +1,528 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Tổ hợp Nhà cao tầng Q1 · TPHCM 3D</title>
+  <link rel="stylesheet" href="https://js.arcgis.com/4.28/esri/themes/light/main.css" />
+  <script src="https://js.arcgis.com/4.28/"></script>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300;400;500;600&display=swap');
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Be Vietnam Pro', sans-serif;
+      background: #f4f6fb;
+      color: #1f2937;
+      height: 100vh;
+      overflow: hidden;
+    }
+
+    #viewDiv {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+    }
+
+    /* Right column: popup + building list */
+    #right-stack {
+      position: absolute;
+      top: 20px;
+      right: 20px;
+      width: 280px;
+      z-index: 10;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    #panel {
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .panel-header {
+      background: rgba(255, 255, 255, 0.95);
+      border: 1px solid #d8e0ea;
+      border-radius: 12px;
+      padding: 16px 18px;
+      box-shadow: 0 8px 24px rgba(16, 24, 40, 0.06);
+    }
+
+    .panel-header h1 {
+      font-size: 15px;
+      font-weight: 600;
+      color: #1f2937;
+      letter-spacing: 0.01em;
+      margin-bottom: 3px;
+    }
+
+    .panel-header p {
+      font-size: 12px;
+      color: #64748b;
+      font-weight: 300;
+    }
+
+    .building-list {
+      background: rgba(255, 255, 255, 0.95);
+      border: 1px solid #d8e0ea;
+      border-radius: 12px;
+      overflow: hidden;
+      box-shadow: 0 8px 24px rgba(16, 24, 40, 0.06);
+    }
+
+    .building-item {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 11px 16px;
+      cursor: pointer;
+      border-bottom: 1px solid #edf2f7;
+      transition: background 0.15s;
+    }
+    .building-item:last-child { border-bottom: none; }
+    .building-item:hover { background: #f7faff; }
+    .building-item.active { background: #e8f1ff; }
+
+    .dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      flex-shrink: 0;
+    }
+
+    .building-info { flex: 1; min-width: 0; }
+    .building-name {
+      font-size: 13px;
+      font-weight: 500;
+      color: #1f2937;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .building-meta {
+      font-size: 11px;
+      color: #64748b;
+      margin-top: 1px;
+    }
+
+    .building-height {
+      font-size: 12px;
+      font-weight: 600;
+      color: #475569;
+      flex-shrink: 0;
+    }
+
+    /* Status bar */
+    #status {
+      position: absolute;
+      bottom: 20px;
+      left: 20px;
+      background: rgba(255, 255, 255, 0.95);
+      border: 1px solid #d8e0ea;
+      border-radius: 8px;
+      padding: 8px 14px;
+      font-size: 12px;
+      color: #475569;
+      z-index: 10;
+      transition: color 0.3s;
+      box-shadow: 0 8px 24px rgba(16, 24, 40, 0.06);
+    }
+
+    /* Building info popup */
+    #info-popup {
+      position: relative;
+      width: 100%;
+      background: rgba(255, 255, 255, 0.97);
+      border: 1px solid #d8e0ea;
+      border-radius: 12px;
+      padding: 16px 18px;
+      display: none;
+      box-shadow: 0 8px 24px rgba(16, 24, 40, 0.08);
+    }
+    #info-popup.show { display: block; }
+    #info-popup h3 { font-size: 14px; font-weight: 600; margin-bottom: 10px; }
+    .info-row { display: flex; justify-content: space-between; margin-bottom: 7px; }
+    .info-label { font-size: 12px; color: #64748b; }
+    .info-value { font-size: 12px; font-weight: 500; color: #1f2937; }
+    .close-btn {
+      position: absolute;
+      top: 12px; right: 14px;
+      background: none; border: none;
+      color: #64748b;
+      cursor: pointer; font-size: 16px;
+      line-height: 1;
+    }
+    .close-btn:hover { color: #1f2937; }
+
+    /* Loading overlay */
+    #loading {
+      position: absolute;
+      inset: 0;
+      background: #f4f6fb;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      z-index: 100;
+      gap: 16px;
+      transition: opacity 0.5s;
+    }
+    #loading.done { opacity: 0; pointer-events: none; }
+    .spinner {
+      width: 36px; height: 36px;
+      border: 2px solid rgba(148, 163, 184, 0.25);
+      border-top-color: #2563eb;
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    #loading p { font-size: 13px; color: #64748b; }
+
+    @media (max-width: 768px) {
+      #right-stack {
+        top: 12px;
+        right: 12px;
+        width: calc(100% - 24px);
+        max-width: 320px;
+      }
+
+      #status {
+        left: 12px;
+        bottom: 12px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<div id="loading">
+  <div class="spinner"></div>
+  <p>Đang tải bản đồ 3D…</p>
+</div>
+
+<div id="viewDiv"></div>
+
+<div id="right-stack">
+  <!-- Building info popup -->
+  <div id="info-popup">
+    <button class="close-btn" onclick="document.getElementById('info-popup').classList.remove('show')">×</button>
+    <h3 id="popup-name"></h3>
+    <div class="info-row"><span class="info-label">Chiều cao</span><span class="info-value" id="popup-height"></span></div>
+    <div class="info-row"><span class="info-label">Số tầng</span><span class="info-value" id="popup-levels"></span></div>
+    <div class="info-row"><span class="info-label">Địa chỉ</span><span class="info-value" id="popup-addr"></span></div>
+    <div class="info-row"><span class="info-label">Loại</span><span class="info-value" id="popup-type"></span></div>
+  </div>
+
+  <!-- Building list panel -->
+  <div id="panel">
+    <div class="panel-header">
+      <h1>Tổ hợp Nhà cao tầng Q1</h1>
+      <p>TP. Hồ Chí Minh · LoD 3 · ArcGIS JS 4.28</p>
+    </div>
+    <div class="building-list" id="building-list"></div>
+  </div>
+</div>
+
+<div id="status">Đang tải dữ liệu tòa nhà...</div>
+
+
+<script>
+  // Building configuration (5 items)
+  const BUILDINGS = [
+    {
+      id: 1,
+      name: "Bitexco Financial Tower",
+      file: "data/bitexco.geojson",  // GeoJSON file path
+      color: "#378ADD",                       // Display color
+      height: 262,
+      levels: 68,
+      address: "2 Hải Triều, Q1",
+      type: "Văn phòng thương mại",
+      // Camera target when this building is selected
+      camera: { longitude: 106.7042, latitude: 10.7715, z: 400, tilt: 65, heading: 330 }
+    },
+    {
+      id: 2,
+      name: "Vietcombank Tower",
+      file: "data/vietcombank.geojson",
+      color: "#1D9E75",
+      height: 206,
+      levels: 35,
+      address: "5 Công Trường Mê Linh, Q1",
+      type: "Văn phòng ngân hàng",
+      camera: { longitude: 106.7055, latitude: 10.7750, z: 350, tilt: 65, heading: 300 }
+    },
+    {
+      id: 3,
+      name: "Times Square Saigon",
+      file: "data/timessquare.geojson",
+      color: "#D85A30",
+      height: 130,
+      levels: 35,
+      address: "22-36 Nguyễn Huệ, Q1",
+      type: "Thương mại - Văn phòng",
+      camera: { longitude: 106.7030, latitude: 10.7735, z: 300, tilt: 65, heading: 10 }
+    },
+    {
+      id: 4,
+      name: "Saigon Trade Center",
+      file: "data/saigontrade.geojson",
+      color: "#BA7517",
+      height: 124,
+      levels: 33,
+      address: "37 Tôn Đức Thắng, Q1",
+      type: "Văn phòng - Khách sạn",
+      camera: { longitude: 106.7060, latitude: 10.7730, z: 300, tilt: 65, heading: 350 }
+    },
+    {
+      id: 5,
+      name: "AB Tower",
+      file: "data/abtower.geojson",
+      color: "#7F77DD",
+      height: 105,
+      levels: 25,
+      address: "76 Lê Lai, Q1",
+      type: "Văn phòng",
+      camera: { longitude: 106.6980, latitude: 10.7730, z: 280, tilt: 65, heading: 20 }
+    }
+  ];
+
+  const DEFAULT_CAMERA = {
+    position: { longitude: 106.7020, latitude: 10.7690, z: 1200 },
+    tilt: 60,
+    heading: 340
+  };
+  // =====================================================
+
+  require([
+    "esri/Map",
+    "esri/views/SceneView",
+    "esri/layers/GeoJSONLayer",
+    "esri/Graphic",
+    "esri/geometry/Point"
+  ], function(Map, SceneView, GeoJSONLayer, Graphic, Point) {
+
+    const map = new Map({
+      basemap: "gray-vector",
+      ground: "world-elevation"
+    });
+
+    const view = new SceneView({
+      container: "viewDiv",
+      map: map,
+      camera: DEFAULT_CAMERA,
+      environment: {
+        atmosphere: { quality: "high" },
+        lighting: {
+          date: new Date("March 15, 2024 10:00:00"),
+          directShadowsEnabled: true
+        }
+      },
+      ui: { components: ["zoom", "compass", "navigation-toggle"] }
+    });
+
+    const layers = [];
+
+    function getLayerEntryByBuildingId(buildingId) {
+      return layers.find(entry => entry.building.id === buildingId);
+    }
+
+    async function goToBuilding(building) {
+      const fallbackView = {
+        position: {
+          longitude: building.camera.longitude,
+          latitude: building.camera.latitude,
+          z: building.camera.z
+        },
+        tilt: building.camera.tilt,
+        heading: building.camera.heading
+      };
+
+      const layerEntry = getLayerEntryByBuildingId(building.id);
+      if (!layerEntry) {
+        return view.goTo(fallbackView, { duration: 1500, easing: "ease-in-out" });
+      }
+
+      try {
+        await layerEntry.layer.when();
+        const extentResult = await layerEntry.layer.queryExtent();
+
+        if (extentResult && extentResult.count > 0 && extentResult.extent) {
+          return view.goTo({
+            target: extentResult.extent.clone().expand(2),
+            tilt: building.camera.tilt,
+            heading: building.camera.heading
+          }, { duration: 1500, easing: "ease-in-out" });
+        }
+      } catch (error) {
+        console.warn("Unable to query building extent:", building.name, error);
+      }
+
+      return view.goTo(fallbackView, { duration: 1500, easing: "ease-in-out" });
+    }
+
+    // Build an extrude renderer for a layer
+    function makeRenderer(building) {
+      return {
+        type: "simple",
+        symbol: {
+          type: "polygon-3d",
+          symbolLayers: [{
+            type: "extrude",
+            material: { color: building.color },
+            edges: {
+              type: "solid",
+              color: [0, 0, 0, 0.4],
+              size: 0.5
+            }
+          }]
+        },
+        visualVariables: [{
+          type: "size",
+          field: "height",        // Read the height field from GeoJSON
+          valueUnit: "meters"
+        }, {
+          type: "color",
+          field: "color",         // Use color field when available
+          stops: null
+        }]
+      };
+    }
+
+    // Simpler renderer using only the height field for extrusion
+    function makeSimpleRenderer(color) {
+      return {
+        type: "simple",
+        symbol: {
+          type: "polygon-3d",
+          symbolLayers: [{
+            type: "extrude",
+            material: { color: color + "CC" },  // CC = 80% opacity
+            edges: {
+              type: "solid",
+              color: [20, 20, 20, 0.6],
+              size: 0.8
+            }
+          }]
+        },
+        visualVariables: [{
+          type: "size",
+          field: "height",
+          valueUnit: "meters"
+        }]
+      };
+    }
+
+    // Render each building layer
+    BUILDINGS.forEach(building => {
+      const layer = new GeoJSONLayer({
+        url: building.file,
+        title: building.name,
+        renderer: makeSimpleRenderer(building.color),
+        elevationInfo: {
+          mode: "on-the-ground"
+        },
+        popupTemplate: {
+          title: "{name}",
+          content: [
+            {
+              type: "fields",
+              fieldInfos: [
+                { fieldName: "height", label: "Chiều cao (m)" },
+                { fieldName: "min_height", label: "Cao từ (m)" },
+                { fieldName: "levels", label: "Số tầng" },
+                { fieldName: "building_part", label: "Phần công trình" }
+              ]
+            }
+          ]
+        }
+      });
+
+      layer.buildingId = building.id;
+      map.add(layer);
+      layers.push({ layer, building });
+    });
+
+    // Build the building list in the side panel
+    const listEl = document.getElementById("building-list");
+    BUILDINGS.forEach(building => {
+      const item = document.createElement("div");
+      item.className = "building-item";
+      item.dataset.id = building.id;
+      item.innerHTML = `
+        <div class="dot" style="background:${building.color}"></div>
+        <div class="building-info">
+          <div class="building-name">${building.name}</div>
+          <div class="building-meta">${building.address}</div>
+        </div>
+        <div class="building-height">${building.height}m</div>
+      `;
+      item.addEventListener("click", () => {
+        void flyTo(building, item);
+      });
+      listEl.appendChild(item);
+    });
+
+    // Fly the camera to a selected building
+    async function flyTo(building, itemEl) {
+      // Remove previous active state
+      document.querySelectorAll(".building-item").forEach(el => el.classList.remove("active"));
+      itemEl.classList.add("active");
+
+      // Move camera
+      try {
+        await goToBuilding(building);
+      } catch (error) {
+        if (!(error && error.name === "AbortError")) {
+          console.warn("Camera move failed:", error);
+        }
+      }
+
+      // Show building info popup
+      const popup = document.getElementById("info-popup");
+      document.getElementById("popup-name").textContent = building.name;
+      document.getElementById("popup-height").textContent = building.height + " m";
+      document.getElementById("popup-levels").textContent = building.levels + " tầng";
+      document.getElementById("popup-addr").textContent = building.address;
+      document.getElementById("popup-type").textContent = building.type;
+      popup.classList.add("show");
+    }
+
+    // Handle loading state
+    view.when(() => {
+      document.getElementById("loading").classList.add("done");
+      document.getElementById("status").textContent = "✓ Đã tải " + BUILDINGS.length + " tòa nhà";
+      setTimeout(() => {
+        document.getElementById("status").textContent = "Click vào tên tòa nhà để xem chi tiết";
+      }, 2500);
+    }).catch(err => {
+      document.getElementById("status").textContent = "Lỗi: " + err.message;
+      document.getElementById("status").style.color = "#E24B4A";
+    });
+
+    // Double-click a building on map to open details
+    view.on("double-click", (event) => {
+      event.stopPropagation();
+      view.hitTest(event).then(response => {
+        const result = response.results.find(r => r.graphic && r.graphic.layer);
+        if (result) {
+          const layerFound = layers.find(l => l.layer === result.graphic.layer);
+          if (layerFound) {
+            const listItem = document.querySelector(`.building-item[data-id="${layerFound.building.id}"]`);
+            if (listItem) {
+              void flyTo(layerFound.building, listItem);
+            }
+          }
+        }
+      });
+    });
+
+  });
+</script>
+</body>
+</html>
