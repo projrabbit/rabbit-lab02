@@ -1,4 +1,5 @@
-# LAB02 - IE402.Q21
+# LAB02 - IE402.Q21 - Submitted repository
+Live link: https://projrabbit.github.io/rabbit-lab02/
 
 ## Thông Tin Chung
 
