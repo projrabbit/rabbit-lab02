@@ -1,0 +1,4524 @@
+{
+  "type": "FeatureCollection",
+  "lodLevel": "LoD3",
+  "lod3Category": "LoD3 columns",
+  "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements.",
+  "timestamp": "2026-04-29T17:07:16.100Z",
+  "features": [
+    {
+      "id": "main-columns-102",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69559548534998,
+              10.777133859705078,
+              18.5
+            ],
+            [
+              106.69559650583875,
+              10.77713295705966,
+              18.5
+            ],
+            [
+              106.69559895611121,
+              10.777135630364443,
+              18.5
+            ],
+            [
+              106.69559793562246,
+              10.77713653300986,
+              18.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "102",
+        "blockName": "Cột nhà",
+        "height": 20,
+        "sourceId": "102",
+        "sourceFile": "main-columns.geojson",
+        "componentId": "main-columns",
+        "componentName": "Main columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "main-columns-103",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69559786649032,
+              10.77713175353243,
+              18.5
+            ],
+            [
+              106.69559888697907,
+              10.777130850887003,
+              18.5
+            ],
+            [
+              106.69560133725153,
+              10.777133524191795,
+              18.5
+            ],
+            [
+              106.69560031676288,
+              10.777134426837218,
+              18.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "103",
+        "blockName": "Cột nhà",
+        "height": 20,
+        "sourceId": "103",
+        "sourceFile": "main-columns.geojson",
+        "componentId": "main-columns",
+        "componentName": "Main columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "main-columns-104",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69548323246605,
+              10.777233151142784,
+              18.5
+            ],
+            [
+              106.69548221197697,
+              10.777234053788202,
+              18.5
+            ],
+            [
+              106.69548466225025,
+              10.777236727092983,
+              18.5
+            ],
+            [
+              106.69548364176119,
+              10.777237629738401,
+              18.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "104",
+        "blockName": "Cột nhà",
+        "height": 20,
+        "sourceId": "104",
+        "sourceFile": "main-columns.geojson",
+        "componentId": "main-columns",
+        "componentName": "Main columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "main-columns-105",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6954808513249,
+              10.777235257315418,
+              18.5
+            ],
+            [
+              106.69547983083582,
+              10.777236159960825,
+              18.5
+            ],
+            [
+              106.69548228110911,
+              10.777238833265615,
+              18.5
+            ],
+            [
+              106.69548126061994,
+              10.777239735911023,
+              18.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "105",
+        "blockName": "Cột nhà",
+        "height": 20,
+        "sourceId": "105",
+        "sourceFile": "main-columns.geojson",
+        "componentId": "main-columns",
+        "componentName": "Main columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "secondary-columns-106",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69564045597963,
+              10.777098922780546,
+              18.6
+            ],
+            [
+              106.6956438576083,
+              10.77709591396247,
+              18.6
+            ],
+            [
+              106.69564018220014,
+              10.77709190400526,
+              18.6
+            ],
+            [
+              106.69563678057145,
+              10.777094912823298,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "106",
+        "blockName": "Cột nhà",
+        "height": 4.5,
+        "sourceId": "106",
+        "sourceFile": "secondary-columns.geojson",
+        "componentId": "secondary-columns",
+        "componentName": "Secondary columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "secondary-columns-107",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69568127551896,
+              10.777062816961188,
+              18.6
+            ],
+            [
+              106.69568467714682,
+              10.777059808142667,
+              18.6
+            ],
+            [
+              106.69568100173906,
+              10.777055798185458,
+              18.6
+            ],
+            [
+              106.69567760011078,
+              10.777058807003497,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "107",
+        "blockName": "Cột nhà",
+        "height": 4.5,
+        "sourceId": "107",
+        "sourceFile": "secondary-columns.geojson",
+        "componentId": "secondary-columns",
+        "componentName": "Secondary columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "secondary-columns-108",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69544214186689,
+              10.777274337315802,
+              18.6
+            ],
+            [
+              106.69543874023579,
+              10.77727734613338,
+              18.6
+            ],
+            [
+              106.69543506482536,
+              10.77727333617617,
+              18.6
+            ],
+            [
+              106.69543846645598,
+              10.777270327358094,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "108",
+        "blockName": "Cột nhà",
+        "height": 4.5,
+        "sourceId": "108",
+        "sourceFile": "secondary-columns.geojson",
+        "componentId": "secondary-columns",
+        "componentName": "Secondary columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "secondary-columns-109",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6954013222889,
+              10.777310443124255,
+              18.6
+            ],
+            [
+              106.69539792065696,
+              10.777313451941389,
+              18.6
+            ],
+            [
+              106.69539424524615,
+              10.77730944198418,
+              18.6
+            ],
+            [
+              106.69539764687717,
+              10.777306433166105,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "109",
+        "blockName": "Cột nhà",
+        "height": 4.5,
+        "sourceId": "109",
+        "sourceFile": "secondary-columns.geojson",
+        "componentId": "secondary-columns",
+        "componentName": "Secondary columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "secondary-columns-546",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69523103377257,
+              10.77714884673797,
+              18.6
+            ],
+            [
+              106.69523443540177,
+              10.777145837919905,
+              18.6
+            ],
+            [
+              106.69523811081076,
+              10.777149847877062,
+              18.6
+            ],
+            [
+              106.69523470918148,
+              10.777152856695137,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "546",
+        "blockName": "Cột nhà",
+        "height": 4.5,
+        "sourceId": "546",
+        "sourceFile": "secondary-columns.geojson",
+        "componentId": "secondary-columns",
+        "componentName": "Secondary columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "secondary-columns-547",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69526505006168,
+              10.777118758555542,
+              18.6
+            ],
+            [
+              106.69526845169015,
+              10.777115749737098,
+              18.6
+            ],
+            [
+              106.69527212709956,
+              10.777119759694262,
+              18.6
+            ],
+            [
+              106.69526872547098,
+              10.777122768512708,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "547",
+        "blockName": "Cột nhà",
+        "height": 4.5,
+        "sourceId": "547",
+        "sourceFile": "secondary-columns.geojson",
+        "componentId": "secondary-columns",
+        "componentName": "Secondary columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "secondary-columns-548",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69529634504103,
+              10.777091077423838,
+              18.6
+            ],
+            [
+              106.69529974666888,
+              10.77708806860502,
+              18.6
+            ],
+            [
+              106.69530342207881,
+              10.777092078562186,
+              18.6
+            ],
+            [
+              106.69530002045084,
+              10.777095087381003,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "548",
+        "blockName": "Cột nhà",
+        "height": 4.5,
+        "sourceId": "548",
+        "sourceFile": "secondary-columns.geojson",
+        "componentId": "secondary-columns",
+        "componentName": "Secondary columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "secondary-columns-549",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69522743115503,
+              10.777015890718966,
+              18.6
+            ],
+            [
+              106.69523083278351,
+              10.777012881900145,
+              18.6
+            ],
+            [
+              106.6952345081925,
+              10.777016891857311,
+              18.6
+            ],
+            [
+              106.69523110656392,
+              10.777019900676127,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "549",
+        "blockName": "Cột nhà",
+        "height": 4.5,
+        "sourceId": "549",
+        "sourceFile": "secondary-columns.geojson",
+        "componentId": "secondary-columns",
+        "componentName": "Secondary columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "secondary-columns-550",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69515851728623,
+              10.776940704014091,
+              18.6
+            ],
+            [
+              106.69516191891543,
+              10.776937695195272,
+              18.6
+            ],
+            [
+              106.69516559432351,
+              10.776941705152439,
+              18.6
+            ],
+            [
+              106.69516219269421,
+              10.776944713971254,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "550",
+        "blockName": "Cột nhà",
+        "height": 4.5,
+        "sourceId": "550",
+        "sourceFile": "secondary-columns.geojson",
+        "componentId": "secondary-columns",
+        "componentName": "Secondary columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "secondary-columns-551",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69512450101394,
+              10.776970792192811,
+              18.6
+            ],
+            [
+              106.69512790264343,
+              10.776967783373989,
+              18.6
+            ],
+            [
+              106.69513157805109,
+              10.776971793331157,
+              18.6
+            ],
+            [
+              106.69512817642139,
+              10.776974802149972,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "551",
+        "blockName": "Cột nhà",
+        "height": 4.5,
+        "sourceId": "551",
+        "sourceFile": "secondary-columns.geojson",
+        "componentId": "secondary-columns",
+        "componentName": "Secondary columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "secondary-columns-552",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69506324424911,
+              10.77690395956701,
+              18.6
+            ],
+            [
+              106.69506664587921,
+              10.776900950748189,
+              18.6
+            ],
+            [
+              106.69507032128607,
+              10.776904960705355,
+              18.6
+            ],
+            [
+              106.69506691965577,
+              10.77690796952417,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "552",
+        "blockName": "Cột nhà",
+        "height": 4.5,
+        "sourceId": "552",
+        "sourceFile": "secondary-columns.geojson",
+        "componentId": "secondary-columns",
+        "componentName": "Secondary columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "secondary-columns-553",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69500198749795,
+              10.776837126941208,
+              18.6
+            ],
+            [
+              106.69500538912864,
+              10.77683411812239,
+              18.6
+            ],
+            [
+              106.69500906453469,
+              10.776838128079552,
+              18.6
+            ],
+            [
+              106.69500566290377,
+              10.776841136898371,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "553",
+        "blockName": "Cột nhà",
+        "height": 4.5,
+        "sourceId": "553",
+        "sourceFile": "secondary-columns.geojson",
+        "componentId": "secondary-columns",
+        "componentName": "Secondary columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "secondary-columns-554",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6949713591258,
+              10.776803710629808,
+              18.6
+            ],
+            [
+              106.69497476075672,
+              10.77680070181099,
+              18.6
+            ],
+            [
+              106.69497843616236,
+              10.776804711768154,
+              18.6
+            ],
+            [
+              106.69497503453113,
+              10.776807720586973,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "554",
+        "blockName": "Cột nhà",
+        "height": 4.5,
+        "sourceId": "554",
+        "sourceFile": "secondary-columns.geojson",
+        "componentId": "secondary-columns",
+        "componentName": "Secondary columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "secondary-columns-555",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69494073075704,
+              10.77677029431841,
+              18.6
+            ],
+            [
+              106.69494413238826,
+              10.776767285499592,
+              18.6
+            ],
+            [
+              106.69494780779348,
+              10.776771295456758,
+              18.6
+            ],
+            [
+              106.69494440616197,
+              10.776774304275575,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "555",
+        "blockName": "Cột nhà",
+        "height": 4.5,
+        "sourceId": "555",
+        "sourceFile": "secondary-columns.geojson",
+        "componentId": "secondary-columns",
+        "componentName": "Secondary columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "secondary-columns-556",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69499175512398,
+              10.776725162043375,
+              18.6
+            ],
+            [
+              106.6949951567547,
+              10.776722153224558,
+              18.6
+            ],
+            [
+              106.69499883216054,
+              10.776726163181722,
+              18.6
+            ],
+            [
+              106.69499543052952,
+              10.776729172000541,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "556",
+        "blockName": "Cột nhà",
+        "height": 4.5,
+        "sourceId": "556",
+        "sourceFile": "secondary-columns.geojson",
+        "componentId": "secondary-columns",
+        "componentName": "Secondary columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "secondary-columns-557",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69496112676315,
+              10.776691745731977,
+              18.6
+            ],
+            [
+              106.69496452839417,
+              10.77668873691316,
+              18.6
+            ],
+            [
+              106.69496820379959,
+              10.776692746870324,
+              18.6
+            ],
+            [
+              106.69496480216827,
+              10.776695755689142,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "557",
+        "blockName": "Cột nhà",
+        "height": 4.5,
+        "sourceId": "557",
+        "sourceFile": "secondary-columns.geojson",
+        "componentId": "secondary-columns",
+        "componentName": "Secondary columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "secondary-columns-558",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69509719167203,
+              10.776571392980005,
+              18.6
+            ],
+            [
+              106.69510059330163,
+              10.776568384161187,
+              18.6
+            ],
+            [
+              106.69510426870889,
+              10.776572394118354,
+              18.6
+            ],
+            [
+              106.69510086707899,
+              10.776575402937171,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "558",
+        "blockName": "Cột nhà",
+        "height": 4.5,
+        "sourceId": "558",
+        "sourceFile": "secondary-columns.geojson",
+        "componentId": "secondary-columns",
+        "componentName": "Secondary columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "secondary-columns-559",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69512782002403,
+              10.776604809288393,
+              18.6
+            ],
+            [
+              106.6951312216533,
+              10.776601800469578,
+              18.6
+            ],
+            [
+              106.69513489706097,
+              10.776605810426744,
+              18.6
+            ],
+            [
+              106.69513149543138,
+              10.77660881924556,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "559",
+        "blockName": "Cột nhà",
+        "height": 4.5,
+        "sourceId": "559",
+        "sourceFile": "secondary-columns.geojson",
+        "componentId": "secondary-columns",
+        "componentName": "Secondary columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "secondary-columns-560",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69517884436286,
+              10.77655967701336,
+              18.6
+            ],
+            [
+              106.69518224599163,
+              10.776556668194543,
+              18.6
+            ],
+            [
+              106.69518592139991,
+              10.776560678151709,
+              18.6
+            ],
+            [
+              106.69518251977094,
+              10.776563686970526,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "560",
+        "blockName": "Cột nhà",
+        "height": 4.5,
+        "sourceId": "560",
+        "sourceFile": "secondary-columns.geojson",
+        "componentId": "secondary-columns",
+        "componentName": "Secondary columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "secondary-columns-561",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69520947271361,
+              10.77659309332175,
+              18.6
+            ],
+            [
+              106.69521287434209,
+              10.776590084502933,
+              18.6
+            ],
+            [
+              106.69521654975077,
+              10.776594094460098,
+              18.6
+            ],
+            [
+              106.69521314812211,
+              10.776597103278915,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "561",
+        "blockName": "Cột nhà",
+        "height": 4.5,
+        "sourceId": "561",
+        "sourceFile": "secondary-columns.geojson",
+        "componentId": "secondary-columns",
+        "componentName": "Secondary columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "secondary-columns-562",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6952401010712,
+              10.776626509627135,
+              18.6
+            ],
+            [
+              106.69524350269937,
+              10.776623500808316,
+              18.6
+            ],
+            [
+              106.69524717810846,
+              10.776627510765483,
+              18.6
+            ],
+            [
+              106.69524377648008,
+              10.776630519584298,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "562",
+        "blockName": "Cột nhà",
+        "height": 4.5,
+        "sourceId": "562",
+        "sourceFile": "secondary-columns.geojson",
+        "componentId": "secondary-columns",
+        "componentName": "Secondary columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "secondary-columns-563",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69530135780671,
+              10.776693342228878,
+              18.6
+            ],
+            [
+              106.69530475943425,
+              10.776690333410059,
+              18.6
+            ],
+            [
+              106.69530843484416,
+              10.776694343367225,
+              18.6
+            ],
+            [
+              106.6953050332164,
+              10.77669735218604,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "563",
+        "blockName": "Cột nhà",
+        "height": 4.5,
+        "sourceId": "563",
+        "sourceFile": "secondary-columns.geojson",
+        "componentId": "secondary-columns",
+        "componentName": "Secondary columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "secondary-columns-564",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69536261456949,
+              10.776760174818593,
+              18.6
+            ],
+            [
+              106.69536601619643,
+              10.776757165999774,
+              18.6
+            ],
+            [
+              106.69536969160714,
+              10.77676117595694,
+              18.6
+            ],
+            [
+              106.69536628998,
+              10.776764184775756,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "564",
+        "blockName": "Cột nhà",
+        "height": 4.5,
+        "sourceId": "564",
+        "sourceFile": "secondary-columns.geojson",
+        "componentId": "secondary-columns",
+        "componentName": "Secondary columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "secondary-columns-565",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69532859831753,
+              10.776790262997311,
+              18.6
+            ],
+            [
+              106.69533199994477,
+              10.77678725417849,
+              18.6
+            ],
+            [
+              106.6953356753551,
+              10.776791264135658,
+              18.6
+            ],
+            [
+              106.69533227372753,
+              10.776794272954474,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "565",
+        "blockName": "Cột nhà",
+        "height": 4.5,
+        "sourceId": "565",
+        "sourceFile": "secondary-columns.geojson",
+        "componentId": "secondary-columns",
+        "componentName": "Secondary columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "secondary-columns-566",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69539751216912,
+              10.77686544968696,
+              18.6
+            ],
+            [
+              106.69540091379567,
+              10.77686244086814,
+              18.6
+            ],
+            [
+              106.6954045892069,
+              10.776866450825306,
+              18.6
+            ],
+            [
+              106.69540118758003,
+              10.776869459644121,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "566",
+        "blockName": "Cột nhà",
+        "height": 4.5,
+        "sourceId": "566",
+        "sourceFile": "secondary-columns.geojson",
+        "componentId": "secondary-columns",
+        "componentName": "Secondary columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "secondary-columns-567",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69546642603791,
+              10.776940636376608,
+              18.6
+            ],
+            [
+              106.69546982766373,
+              10.776937627557787,
+              18.6
+            ],
+            [
+              106.69547350307589,
+              10.776941637514954,
+              18.6
+            ],
+            [
+              106.69547010144974,
+              10.77694464633377,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "567",
+        "blockName": "Cột nhà",
+        "height": 4.5,
+        "sourceId": "567",
+        "sourceFile": "secondary-columns.geojson",
+        "componentId": "secondary-columns",
+        "componentName": "Secondary columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "secondary-columns-568",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6955004423035,
+              10.776910548194179,
+              18.6
+            ],
+            [
+              106.69550384392892,
+              10.776907539375358,
+              18.6
+            ],
+            [
+              106.69550751934158,
+              10.776911549332524,
+              18.6
+            ],
+            [
+              106.69550411771576,
+              10.776914558151342,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "568",
+        "blockName": "Cột nhà",
+        "height": 4.5,
+        "sourceId": "568",
+        "sourceFile": "secondary-columns.geojson",
+        "componentId": "secondary-columns",
+        "componentName": "Secondary columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "secondary-columns-569",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69553445856216,
+              10.77688046000804,
+              18.6
+            ],
+            [
+              106.69553786018739,
+              10.77687745118922,
+              18.6
+            ],
+            [
+              106.69554153560046,
+              10.776881461146388,
+              18.6
+            ],
+            [
+              106.69553813397494,
+              10.776884469965205,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "569",
+        "blockName": "Cột nhà",
+        "height": 4.5,
+        "sourceId": "569",
+        "sourceFile": "secondary-columns.geojson",
+        "componentId": "secondary-columns",
+        "componentName": "Secondary columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "first-floor-main-columns-125",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69561929675145,
+              10.777112797977377,
+              23.3
+            ],
+            [
+              106.69562031724,
+              10.777111895331862,
+              23.3
+            ],
+            [
+              106.69562276751286,
+              10.777114568636645,
+              23.3
+            ],
+            [
+              106.6956217470243,
+              10.777115471282158,
+              23.3
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "125",
+        "blockName": "Trụ nhà",
+        "height": 15.35,
+        "sourceId": "125",
+        "sourceFile": "first-floor-main-columns.geojson",
+        "componentId": "first-floor-main-columns",
+        "componentName": "Upper main columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "first-floor-main-columns-126",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69563970652156,
+              10.77709474506647,
+              23.3
+            ],
+            [
+              106.69564072701,
+              10.777093842420891,
+              23.3
+            ],
+            [
+              106.69564317728297,
+              10.777096515725674,
+              23.3
+            ],
+            [
+              106.69564215679452,
+              10.777097418371255,
+              23.3
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "126",
+        "blockName": "Trụ nhà",
+        "height": 15.35,
+        "sourceId": "126",
+        "sourceFile": "first-floor-main-columns.geojson",
+        "componentId": "first-floor-main-columns",
+        "componentName": "Upper main columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "first-floor-main-columns-127",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69566011628925,
+              10.777076692154232,
+              23.3
+            ],
+            [
+              106.69566113677749,
+              10.777075789508585,
+              23.3
+            ],
+            [
+              106.69566358705065,
+              10.777078462813368,
+              23.3
+            ],
+            [
+              106.69566256656232,
+              10.777079365459015,
+              23.3
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "127",
+        "blockName": "Trụ nhà",
+        "height": 15.35,
+        "sourceId": "127",
+        "sourceFile": "first-floor-main-columns.geojson",
+        "componentId": "first-floor-main-columns",
+        "componentName": "Upper main columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "first-floor-main-columns-128",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69568052605437,
+              10.777058639240659,
+              23.3
+            ],
+            [
+              106.69568154654252,
+              10.777057736594942,
+              23.3
+            ],
+            [
+              106.69568399681589,
+              10.777060409899727,
+              23.3
+            ],
+            [
+              106.69568297632776,
+              10.777061312545442,
+              23.3
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "128",
+        "blockName": "Trụ nhà",
+        "height": 15.35,
+        "sourceId": "128",
+        "sourceFile": "first-floor-main-columns.geojson",
+        "componentId": "first-floor-main-columns",
+        "componentName": "Upper main columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "first-floor-main-columns-129",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69570093581707,
+              10.777040586325748,
+              23.3
+            ],
+            [
+              106.69570195630523,
+              10.777039683679966,
+              23.3
+            ],
+            [
+              106.69570440657868,
+              10.777042356984747,
+              23.3
+            ],
+            [
+              106.69570338609066,
+              10.77704325963053,
+              23.3
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "129",
+        "blockName": "Trụ nhà",
+        "height": 15.35,
+        "sourceId": "129",
+        "sourceFile": "first-floor-main-columns.geojson",
+        "componentId": "first-floor-main-columns",
+        "componentName": "Upper main columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "first-floor-main-columns-130",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69572644811228,
+              10.777018020284103,
+              23.3
+            ],
+            [
+              106.69572542762376,
+              10.777018922929186,
+              23.3
+            ],
+            [
+              106.69572787789356,
+              10.777021596233963,
+              23.3
+            ],
+            [
+              106.69572889838221,
+              10.777020693588883,
+              23.3
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "130",
+        "blockName": "Trụ nhà",
+        "height": 15.35,
+        "sourceId": "130",
+        "sourceFile": "first-floor-main-columns.geojson",
+        "componentId": "first-floor-main-columns",
+        "componentName": "Upper main columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "first-floor-main-columns-131",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69576046439681,
+              10.776987932112805,
+              23.3
+            ],
+            [
+              106.69575944390836,
+              10.776988834757995,
+              23.3
+            ],
+            [
+              106.69576189417859,
+              10.776991508062775,
+              23.3
+            ],
+            [
+              106.69576291466704,
+              10.776990605417584,
+              23.3
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "131",
+        "blockName": "Trụ nhà",
+        "height": 15.35,
+        "sourceId": "131",
+        "sourceFile": "first-floor-main-columns.geojson",
+        "componentId": "first-floor-main-columns",
+        "componentName": "Upper main columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "first-floor-main-columns-132",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69579448067452,
+              10.776957843937792,
+              23.3
+            ],
+            [
+              106.69579346018628,
+              10.776958746583096,
+              23.3
+            ],
+            [
+              106.6957959104568,
+              10.776961419887876,
+              23.3
+            ],
+            [
+              106.69579693094504,
+              10.776960517242573,
+              23.3
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "132",
+        "blockName": "Trụ nhà",
+        "height": 15.35,
+        "sourceId": "132",
+        "sourceFile": "first-floor-main-columns.geojson",
+        "componentId": "first-floor-main-columns",
+        "componentName": "Upper main columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "first-floor-main-columns-133",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69582849694541,
+              10.776927755759074,
+              23.3
+            ],
+            [
+              106.69582747645735,
+              10.776928658404492,
+              23.3
+            ],
+            [
+              106.6958299267282,
+              10.776931331709271,
+              23.3
+            ],
+            [
+              106.69583094721624,
+              10.776930429063855,
+              23.3
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "133",
+        "blockName": "Trụ nhà",
+        "height": 15.35,
+        "sourceId": "133",
+        "sourceFile": "first-floor-main-columns.geojson",
+        "componentId": "first-floor-main-columns",
+        "componentName": "Upper main columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "first-floor-main-columns-338",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69545942105258,
+              10.777254212867888,
+              23.3
+            ],
+            [
+              106.69545840056341,
+              10.777255115513208,
+              23.3
+            ],
+            [
+              106.6954608508364,
+              10.777257788817991,
+              23.3
+            ],
+            [
+              106.69546187132565,
+              10.77725688617267,
+              23.3
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "338",
+        "blockName": "Trụ nhà",
+        "height": 15.35,
+        "sourceId": "338",
+        "sourceFile": "first-floor-main-columns.geojson",
+        "componentId": "first-floor-main-columns",
+        "componentName": "Upper main columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "first-floor-main-columns-339",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69543901126708,
+              10.777272265773673,
+              23.3
+            ],
+            [
+              106.69543799077772,
+              10.777273168418926,
+              23.3
+            ],
+            [
+              106.6954404410505,
+              10.777275841723707,
+              23.3
+            ],
+            [
+              106.69544146153984,
+              10.777274939078456,
+              23.3
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "339",
+        "blockName": "Trụ nhà",
+        "height": 15.35,
+        "sourceId": "339",
+        "sourceFile": "first-floor-main-columns.geojson",
+        "componentId": "first-floor-main-columns",
+        "componentName": "Upper main columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "first-floor-main-columns-340",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69541860147893,
+              10.777290318678123,
+              23.3
+            ],
+            [
+              106.69541758098948,
+              10.77729122132331,
+              23.3
+            ],
+            [
+              106.69542003126215,
+              10.777293894628095,
+              23.3
+            ],
+            [
+              106.69542105175161,
+              10.777292991982906,
+              23.3
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "340",
+        "blockName": "Trụ nhà",
+        "height": 15.35,
+        "sourceId": "340",
+        "sourceFile": "first-floor-main-columns.geojson",
+        "componentId": "first-floor-main-columns",
+        "componentName": "Upper main columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "first-floor-main-columns-341",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69539819168857,
+              10.777308371581237,
+              23.3
+            ],
+            [
+              106.6953971711989,
+              10.777309274226354,
+              23.3
+            ],
+            [
+              106.69539962147135,
+              10.777311947531139,
+              23.3
+            ],
+            [
+              106.69540064196103,
+              10.777311044886018,
+              23.3
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "341",
+        "blockName": "Trụ nhà",
+        "height": 15.35,
+        "sourceId": "341",
+        "sourceFile": "first-floor-main-columns.geojson",
+        "componentId": "first-floor-main-columns",
+        "componentName": "Upper main columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "first-floor-main-columns-342",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69537778189554,
+              10.777326424483014,
+              23.3
+            ],
+            [
+              106.69537676140587,
+              10.777327327128068,
+              23.3
+            ],
+            [
+              106.69537921167814,
+              10.77733000043285,
+              23.3
+            ],
+            [
+              106.6953802321679,
+              10.777329097787796,
+              23.3
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "342",
+        "blockName": "Trụ nhà",
+        "height": 15.35,
+        "sourceId": "342",
+        "sourceFile": "first-floor-main-columns.geojson",
+        "componentId": "first-floor-main-columns",
+        "componentName": "Upper main columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "first-floor-main-columns-343",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69535226965101,
+              10.777348990608358,
+              23.3
+            ],
+            [
+              106.69535124916113,
+              10.777349893253326,
+              23.3
+            ],
+            [
+              106.69535369943318,
+              10.777352566558111,
+              23.3
+            ],
+            [
+              106.69535471992306,
+              10.77735166391314,
+              23.3
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "343",
+        "blockName": "Trụ nhà",
+        "height": 15.35,
+        "sourceId": "343",
+        "sourceFile": "first-floor-main-columns.geojson",
+        "componentId": "first-floor-main-columns",
+        "componentName": "Upper main columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "first-floor-main-columns-344",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69531825331886,
+              10.777379078772238,
+              23.3
+            ],
+            [
+              106.69531723282878,
+              10.777379981417099,
+              23.3
+            ],
+            [
+              106.69531968310054,
+              10.77738265472188,
+              23.3
+            ],
+            [
+              106.69532070359061,
+              10.77738175207702,
+              23.3
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "344",
+        "blockName": "Trụ nhà",
+        "height": 15.35,
+        "sourceId": "344",
+        "sourceFile": "first-floor-main-columns.geojson",
+        "componentId": "first-floor-main-columns",
+        "componentName": "Upper main columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "first-floor-main-columns-345",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69528423697997,
+              10.777409166932408,
+              23.3
+            ],
+            [
+              106.6952832164897,
+              10.777410069577154,
+              23.3
+            ],
+            [
+              106.69528566676115,
+              10.777412742881939,
+              23.3
+            ],
+            [
+              106.69528668725142,
+              10.777411840237193,
+              23.3
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "345",
+        "blockName": "Trụ nhà",
+        "height": 15.35,
+        "sourceId": "345",
+        "sourceFile": "first-floor-main-columns.geojson",
+        "componentId": "first-floor-main-columns",
+        "componentName": "Upper main columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "first-floor-main-columns-346",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69525022063429,
+              10.77743925508887,
+              23.3
+            ],
+            [
+              106.69525124112407,
+              10.77743835244345,
+              23.3
+            ],
+            [
+              106.6952536913959,
+              10.777441025749011,
+              23.3
+            ],
+            [
+              106.69525267090542,
+              10.777441928393651,
+              23.3
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "346",
+        "blockName": "Trụ nhà",
+        "height": 15.35,
+        "sourceId": "346",
+        "sourceFile": "first-floor-main-columns.geojson",
+        "componentId": "first-floor-main-columns",
+        "componentName": "Upper main columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "first-floor-main-columns-347",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69512770710782,
+              10.777305590007009,
+              23.3
+            ],
+            [
+              106.69512678825554,
+              10.777304587517353,
+              23.3
+            ],
+            [
+              106.69512406694841,
+              10.777306994571788,
+              23.3
+            ],
+            [
+              106.69512498580079,
+              10.777307997061447,
+              23.3
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "347",
+        "blockName": "Trụ nhà",
+        "height": 15.35,
+        "sourceId": "347",
+        "sourceFile": "first-floor-main-columns.geojson",
+        "componentId": "first-floor-main-columns",
+        "componentName": "Upper main columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "first-floor-main-columns-348",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69509707870148,
+              10.777272173683581,
+              23.3
+            ],
+            [
+              106.69509615984943,
+              10.777271171193833,
+              23.3
+            ],
+            [
+              106.6950934385422,
+              10.77727357824827,
+              23.3
+            ],
+            [
+              106.69509435739428,
+              10.777274580738018,
+              23.3
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "348",
+        "blockName": "Trụ nhà",
+        "height": 15.35,
+        "sourceId": "348",
+        "sourceFile": "first-floor-main-columns.geojson",
+        "componentId": "first-floor-main-columns",
+        "componentName": "Upper main columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "first-floor-main-columns-349",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69506736915393,
+              10.777239759846983,
+              23.3
+            ],
+            [
+              106.69506645030208,
+              10.777238757357148,
+              23.3
+            ],
+            [
+              106.69506372899455,
+              10.777241164411581,
+              23.3
+            ],
+            [
+              106.69506464784642,
+              10.77724216690142,
+              23.3
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "349",
+        "blockName": "Trụ nhà",
+        "height": 15.35,
+        "sourceId": "349",
+        "sourceFile": "first-floor-main-columns.geojson",
+        "componentId": "first-floor-main-columns",
+        "componentName": "Upper main columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "first-floor-main-columns-350",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69506645030208,
+              10.777238757357148,
+              23.3
+            ],
+            [
+              106.69506747079113,
+              10.777237854711732,
+              23.3
+            ],
+            [
+              106.69506502051787,
+              10.777235181406931,
+              23.3
+            ],
+            [
+              106.69506400002882,
+              10.77723608405235,
+              23.3
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "350",
+        "blockName": "Trụ nhà",
+        "height": 15.35,
+        "sourceId": "350",
+        "sourceFile": "first-floor-main-columns.geojson",
+        "componentId": "first-floor-main-columns",
+        "componentName": "Upper main columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "first-floor-main-columns-351",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69510046660136,
+              10.777208669174719,
+              23.3
+            ],
+            [
+              106.69510148709021,
+              10.77720776652919,
+              23.3
+            ],
+            [
+              106.69509903681664,
+              10.77720509322439,
+              23.3
+            ],
+            [
+              106.69509801632778,
+              10.77720599586992,
+              23.3
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "351",
+        "blockName": "Trụ nhà",
+        "height": 15.35,
+        "sourceId": "351",
+        "sourceFile": "first-floor-main-columns.geojson",
+        "componentId": "first-floor-main-columns",
+        "componentName": "Upper main columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "first-floor-main-columns-352",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69513448289372,
+              10.777178580988583,
+              23.3
+            ],
+            [
+              106.69513550338237,
+              10.77717767834294,
+              23.3
+            ],
+            [
+              106.69513305310859,
+              10.777175005038139,
+              23.3
+            ],
+            [
+              106.69513203261994,
+              10.777175907683782,
+              23.3
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "352",
+        "blockName": "Trụ nhà",
+        "height": 15.35,
+        "sourceId": "352",
+        "sourceFile": "first-floor-main-columns.geojson",
+        "componentId": "first-floor-main-columns",
+        "componentName": "Upper main columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "first-floor-main-columns-353",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69516747869092,
+              10.777149395444484,
+              23.3
+            ],
+            [
+              106.69516849917937,
+              10.777148492798734,
+              23.3
+            ],
+            [
+              106.69516604890516,
+              10.777145819493933,
+              23.3
+            ],
+            [
+              106.69516502841674,
+              10.777146722139683,
+              23.3
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "353",
+        "blockName": "Trụ nhà",
+        "height": 15.35,
+        "sourceId": "353",
+        "sourceFile": "first-floor-main-columns.geojson",
+        "componentId": "first-floor-main-columns",
+        "componentName": "Upper main columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "first-floor-main-columns-354",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69523314388285,
+              10.777151820924692,
+              23.3
+            ],
+            [
+              106.6952341643715,
+              10.777150918279165,
+              23.3
+            ],
+            [
+              106.69523171409843,
+              10.777148244974363,
+              23.3
+            ],
+            [
+              106.69523069360966,
+              10.777149147619893,
+              23.3
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "354",
+        "blockName": "Trụ nhà",
+        "height": 15.35,
+        "sourceId": "354",
+        "sourceFile": "first-floor-main-columns.geojson",
+        "componentId": "first-floor-main-columns",
+        "componentName": "Upper main columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "first-floor-main-columns-355",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69526716016888,
+              10.777121732738555,
+              23.3
+            ],
+            [
+              106.69526818065734,
+              10.777120830092914,
+              23.3
+            ],
+            [
+              106.69526573038385,
+              10.777118156788113,
+              23.3
+            ],
+            [
+              106.6952647098954,
+              10.777119059433755,
+              23.3
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "355",
+        "blockName": "Trụ nhà",
+        "height": 15.35,
+        "sourceId": "355",
+        "sourceFile": "first-floor-main-columns.geojson",
+        "componentId": "first-floor-main-columns",
+        "componentName": "Upper main columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "first-floor-main-columns-379",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69525022080083,
+              10.777439255270648,
+              23.3
+            ],
+            [
+              106.69524930194771,
+              10.77743825278135,
+              23.3
+            ],
+            [
+              106.69524658064172,
+              10.777440659835786,
+              23.3
+            ],
+            [
+              106.6952474994948,
+              10.777441662325083,
+              23.3
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "379",
+        "blockName": "Trụ nhà",
+        "height": 15.35,
+        "sourceId": "379",
+        "sourceFile": "first-floor-main-columns.geojson",
+        "componentId": "first-floor-main-columns",
+        "componentName": "Upper main columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "first-floor-main-columns-380",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6952195923674,
+              10.77740583895925,
+              23.3
+            ],
+            [
+              106.69521867351452,
+              10.777404836469863,
+              23.3
+            ],
+            [
+              106.69521595220822,
+              10.777407243524298,
+              23.3
+            ],
+            [
+              106.6952168710611,
+              10.777408246013685,
+              23.3
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "380",
+        "blockName": "Trụ nhà",
+        "height": 15.35,
+        "sourceId": "380",
+        "sourceFile": "first-floor-main-columns.geojson",
+        "componentId": "first-floor-main-columns",
+        "componentName": "Upper main columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "first-floor-main-columns-381",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69518896394071,
+              10.777372422644845,
+              23.3
+            ],
+            [
+              106.69518804508805,
+              10.777371420155367,
+              23.3
+            ],
+            [
+              106.69518532378154,
+              10.777373827209802,
+              23.3
+            ],
+            [
+              106.69518624263421,
+              10.77737482969928,
+              23.3
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "381",
+        "blockName": "Trụ nhà",
+        "height": 15.35,
+        "sourceId": "381",
+        "sourceFile": "first-floor-main-columns.geojson",
+        "componentId": "first-floor-main-columns",
+        "componentName": "Upper main columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "first-floor-main-columns-382",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69515833552086,
+              10.777339006327432,
+              23.3
+            ],
+            [
+              106.69515833552086,
+              10.777339006327432,
+              23.3
+            ],
+            [
+              106.69515469536157,
+              10.777340410892297,
+              23.3
+            ],
+            [
+              106.69515561421406,
+              10.777341413381867,
+              23.3
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "382",
+        "blockName": "Trụ nhà",
+        "height": 15.35,
+        "sourceId": "382",
+        "sourceFile": "first-floor-main-columns.geojson",
+        "componentId": "first-floor-main-columns",
+        "componentName": "Upper main columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "first-floor-main-columns-386",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69550527376472,
+              10.776911115199644,
+              23.3
+            ],
+            [
+              106.69550629425258,
+              10.776910212554116,
+              23.3
+            ],
+            [
+              106.69550384398144,
+              10.776907539249315,
+              23.3
+            ],
+            [
+              106.6955028234936,
+              10.776908441894843,
+              23.3
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "386",
+        "blockName": "Trụ nhà",
+        "height": 15.35,
+        "sourceId": "386",
+        "sourceFile": "first-floor-main-columns.geojson",
+        "componentId": "first-floor-main-columns",
+        "componentName": "Upper main columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "first-floor-main-columns-387",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69553929002362,
+              10.776881027013507,
+              23.3
+            ],
+            [
+              106.69554031051125,
+              10.776880124367864,
+              23.3
+            ],
+            [
+              106.69553786023981,
+              10.776877451063063,
+              23.3
+            ],
+            [
+              106.69553683975217,
+              10.776878353708707,
+              23.3
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "387",
+        "blockName": "Trụ nhà",
+        "height": 15.35,
+        "sourceId": "387",
+        "sourceFile": "first-floor-main-columns.geojson",
+        "componentId": "first-floor-main-columns",
+        "componentName": "Upper main columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "first-floor-main-columns-388",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6956447266365,
+              10.776727257953844,
+              23.3
+            ],
+            [
+              106.69564370614917,
+              10.77672816059926,
+              23.3
+            ],
+            [
+              106.69564125588008,
+              10.776725487294462,
+              23.3
+            ],
+            [
+              106.69564227636741,
+              10.776724584649044,
+              23.3
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "388",
+        "blockName": "Trụ nhà",
+        "height": 15.35,
+        "sourceId": "388",
+        "sourceFile": "first-floor-main-columns.geojson",
+        "componentId": "first-floor-main-columns",
+        "componentName": "Upper main columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "first-floor-main-columns-389",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69561071038822,
+              10.776757346132563,
+              23.3
+            ],
+            [
+              106.69560968990069,
+              10.776758248777869,
+              23.3
+            ],
+            [
+              106.69560723963198,
+              10.776755575473066,
+              23.3
+            ],
+            [
+              106.69560826011951,
+              10.776754672827762,
+              23.3
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "389",
+        "blockName": "Trụ nhà",
+        "height": 15.35,
+        "sourceId": "389",
+        "sourceFile": "first-floor-main-columns.geojson",
+        "componentId": "first-floor-main-columns",
+        "componentName": "Upper main columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "first-floor-main-columns-390",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69557669413321,
+              10.776787434307574,
+              23.3
+            ],
+            [
+              106.69557567364548,
+              10.776788336952762,
+              23.3
+            ],
+            [
+              106.69557322337698,
+              10.776785663647965,
+              23.3
+            ],
+            [
+              106.69557424386471,
+              10.776784761002773,
+              23.3
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "390",
+        "blockName": "Trụ nhà",
+        "height": 15.35,
+        "sourceId": "390",
+        "sourceFile": "first-floor-main-columns.geojson",
+        "componentId": "first-floor-main-columns",
+        "componentName": "Upper main columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "first-floor-main-columns-391",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69554369835932,
+              10.776816619833788,
+              23.3
+            ],
+            [
+              106.69554267787137,
+              10.776817522478872,
+              23.3
+            ],
+            [
+              106.69554022760319,
+              10.776814849174073,
+              23.3
+            ],
+            [
+              106.69554124809113,
+              10.776813946528987,
+              23.3
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "391",
+        "blockName": "Trụ nhà",
+        "height": 15.35,
+        "sourceId": "391",
+        "sourceFile": "first-floor-main-columns.geojson",
+        "componentId": "first-floor-main-columns",
+        "componentName": "Upper main columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "facade-divider-columns-426",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69512770610571,
+              10.777305589101331,
+              18.6
+            ],
+            [
+              106.69512430447469,
+              10.777308597919369,
+              18.6
+            ],
+            [
+              106.69512522332737,
+              10.777309600408666,
+              18.6
+            ],
+            [
+              106.69512862495839,
+              10.777306591590628,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "426",
+        "blockName": "Cột nhà",
+        "height": 5,
+        "sourceId": "426",
+        "sourceFile": "facade-divider-columns.geojson",
+        "componentId": "facade-divider-columns",
+        "componentName": "Facade divider columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "facade-divider-columns-427",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69515833453238,
+              10.77733900540972,
+              18.6
+            ],
+            [
+              106.69515925338528,
+              10.777340007898927,
+              18.6
+            ],
+            [
+              106.69515585175456,
+              10.777343016716964,
+              18.6
+            ],
+            [
+              106.69515493290167,
+              10.77734201422776,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "427",
+        "blockName": "Cột nhà",
+        "height": 5,
+        "sourceId": "427",
+        "sourceFile": "facade-divider-columns.geojson",
+        "componentId": "facade-divider-columns",
+        "componentName": "Facade divider columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "facade-divider-columns-428",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6951880441127,
+              10.777371419225986,
+              18.6
+            ],
+            [
+              106.6951889629659,
+              10.777372421715103,
+              18.6
+            ],
+            [
+              106.69518556133548,
+              10.77737543053314,
+              18.6
+            ],
+            [
+              106.6951846424823,
+              10.777374428044023,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "428",
+        "blockName": "Cột nhà",
+        "height": 5,
+        "sourceId": "428",
+        "sourceFile": "facade-divider-columns.geojson",
+        "componentId": "facade-divider-columns",
+        "componentName": "Facade divider columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "facade-divider-columns-429",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69570598337894,
+              10.776794090567618,
+              18.6
+            ],
+            [
+              106.69570690223007,
+              10.776795093056915,
+              18.6
+            ],
+            [
+              106.6957103038553,
+              10.776792084238837,
+              18.6
+            ],
+            [
+              106.69570938500414,
+              10.776791081749542,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "429",
+        "blockName": "Cột nhà",
+        "height": 5,
+        "sourceId": "429",
+        "sourceFile": "facade-divider-columns.geojson",
+        "componentId": "facade-divider-columns",
+        "componentName": "Facade divider columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "facade-divider-columns-430",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69573661175359,
+              10.776827506876007,
+              18.6
+            ],
+            [
+              106.69573753060484,
+              10.776828509365213,
+              18.6
+            ],
+            [
+              106.69574093222977,
+              10.776825500547135,
+              18.6
+            ],
+            [
+              106.69574001337841,
+              10.77682449805793,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "430",
+        "blockName": "Cột nhà",
+        "height": 5,
+        "sourceId": "430",
+        "sourceFile": "facade-divider-columns.geojson",
+        "componentId": "facade-divider-columns",
+        "componentName": "Facade divider columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "facade-divider-columns-431",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69576632128343,
+              10.776859920692273,
+              18.6
+            ],
+            [
+              106.69576724013498,
+              10.776860923181392,
+              18.6
+            ],
+            [
+              106.69577064175961,
+              10.776857914363315,
+              18.6
+            ],
+            [
+              106.69576972290803,
+              10.776856911874196,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "431",
+        "blockName": "Cột nhà",
+        "height": 5,
+        "sourceId": "431",
+        "sourceFile": "facade-divider-columns.geojson",
+        "componentId": "facade-divider-columns",
+        "componentName": "Facade divider columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "front-balcony-support-columns-572",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69556929283681,
+              10.777157027638765,
+              23.3
+            ],
+            [
+              106.69556827234744,
+              10.777157930283668,
+              23.3
+            ],
+            [
+              106.6955707226201,
+              10.777160603588449,
+              23.3
+            ],
+            [
+              106.69557174310948,
+              10.777159700943548,
+              23.3
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "572",
+        "blockName": "Cột nhà",
+        "height": 5.65,
+        "sourceId": "572",
+        "sourceFile": "front-balcony-support-columns.geojson",
+        "componentId": "front-balcony-support-columns",
+        "componentName": "Balcony support columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "front-balcony-support-columns-573",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69556691169517,
+              10.777159133810198,
+              23.3
+            ],
+            [
+              106.69556589120579,
+              10.777160036455092,
+              23.3
+            ],
+            [
+              106.69556834147846,
+              10.777162709759873,
+              23.3
+            ],
+            [
+              106.69556936196783,
+              10.77716180711498,
+              23.3
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "573",
+        "blockName": "Cột nhà",
+        "height": 5.65,
+        "sourceId": "573",
+        "sourceFile": "front-balcony-support-columns.geojson",
+        "componentId": "front-balcony-support-columns",
+        "componentName": "Balcony support columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "front-balcony-support-columns-574",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69550874462773,
+              10.777210584937503,
+              23.3
+            ],
+            [
+              106.69550976511619,
+              10.777209682291568,
+              23.3
+            ],
+            [
+              106.69551221538924,
+              10.777212355596353,
+              23.3
+            ],
+            [
+              106.69551119490079,
+              10.777213258242286,
+              23.3
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "574",
+        "blockName": "Cột nhà",
+        "height": 5.65,
+        "sourceId": "574",
+        "sourceFile": "front-balcony-support-columns.geojson",
+        "componentId": "front-balcony-support-columns",
+        "componentName": "Balcony support columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "front-balcony-support-columns-575",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69551112576755,
+              10.777208478763653,
+              23.3
+            ],
+            [
+              106.69551214625601,
+              10.777207576117709,
+              23.3
+            ],
+            [
+              106.69551459652907,
+              10.77721024942249,
+              23.3
+            ],
+            [
+              106.69551357604061,
+              10.777211152068434,
+              23.3
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "575",
+        "blockName": "Cột nhà",
+        "height": 5.65,
+        "sourceId": "575",
+        "sourceFile": "front-balcony-support-columns.geojson",
+        "componentId": "front-balcony-support-columns",
+        "componentName": "Balcony support columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "rear-upper-columns-356",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69526748521058,
+              10.777054886606006,
+              23.35
+            ],
+            [
+              106.69526656635871,
+              10.777053884116608,
+              23.35
+            ],
+            [
+              106.69526384505556,
+              10.777056291171043,
+              23.35
+            ],
+            [
+              106.69526476390733,
+              10.777057293660441,
+              23.35
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "356",
+        "blockName": "Cột nhà",
+        "height": 10.35,
+        "sourceId": "356",
+        "sourceFile": "rear-upper-columns.geojson",
+        "componentId": "rear-upper-columns",
+        "componentName": "Rear upper columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "rear-upper-columns-357",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69523379398129,
+              10.777018128659664,
+              23.35
+            ],
+            [
+              106.69523287512972,
+              10.777017126170167,
+              23.35
+            ],
+            [
+              106.69523015382617,
+              10.777019533224601,
+              23.35
+            ],
+            [
+              106.69523107267783,
+              10.7770205357141,
+              23.35
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "357",
+        "blockName": "Cột nhà",
+        "height": 10.35,
+        "sourceId": "357",
+        "sourceFile": "rear-upper-columns.geojson",
+        "componentId": "rear-upper-columns",
+        "componentName": "Rear upper columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "rear-upper-columns-358",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69520010276024,
+              10.776981370709683,
+              23.35
+            ],
+            [
+              106.69519918390888,
+              10.776980368220087,
+              23.35
+            ],
+            [
+              106.69519646260513,
+              10.776982775274522,
+              23.35
+            ],
+            [
+              106.69519738145648,
+              10.77698377776412,
+              23.35
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "358",
+        "blockName": "Cột nhà",
+        "height": 10.35,
+        "sourceId": "358",
+        "sourceFile": "rear-upper-columns.geojson",
+        "componentId": "rear-upper-columns",
+        "componentName": "Rear upper columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "rear-upper-columns-359",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69512933243782,
+              10.776971359302454,
+              23.35
+            ],
+            [
+              106.69512841358615,
+              10.776970356813157,
+              23.35
+            ],
+            [
+              106.69512569228434,
+              10.776972763867594,
+              23.35
+            ],
+            [
+              106.69512661113599,
+              10.776973766356889,
+              23.35
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "359",
+        "blockName": "Cột nhà",
+        "height": 10.35,
+        "sourceId": "359",
+        "sourceFile": "rear-upper-columns.geojson",
+        "componentId": "rear-upper-columns",
+        "componentName": "Rear upper columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "rear-upper-columns-360",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69509870405196,
+              10.776937942991056,
+              23.35
+            ],
+            [
+              106.6950977852005,
+              10.776936940501669,
+              23.35
+            ],
+            [
+              106.69509506389845,
+              10.776939347556103,
+              23.35
+            ],
+            [
+              106.69509598274993,
+              10.776940350045491,
+              23.35
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "360",
+        "blockName": "Cột nhà",
+        "height": 10.35,
+        "sourceId": "360",
+        "sourceFile": "rear-upper-columns.geojson",
+        "componentId": "rear-upper-columns",
+        "componentName": "Rear upper columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "rear-upper-columns-361",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69506807567289,
+              10.776904526676653,
+              23.35
+            ],
+            [
+              106.69506715682164,
+              10.776903524187173,
+              23.35
+            ],
+            [
+              106.6950644355193,
+              10.776905931241608,
+              23.35
+            ],
+            [
+              106.69506535437057,
+              10.776906933731087,
+              23.35
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "361",
+        "blockName": "Cột nhà",
+        "height": 10.35,
+        "sourceId": "361",
+        "sourceFile": "rear-upper-columns.geojson",
+        "componentId": "rear-upper-columns",
+        "componentName": "Rear upper columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "rear-upper-columns-362",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69503744730066,
+              10.776871110359238,
+              23.35
+            ],
+            [
+              106.6950365284496,
+              10.776870107869668,
+              23.35
+            ],
+            [
+              106.69503380714698,
+              10.776872514924102,
+              23.35
+            ],
+            [
+              106.69503472599814,
+              10.776873517413673,
+              23.35
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "362",
+        "blockName": "Cột nhà",
+        "height": 10.35,
+        "sourceId": "362",
+        "sourceFile": "rear-upper-columns.geojson",
+        "componentId": "rear-upper-columns",
+        "componentName": "Rear upper columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "rear-upper-columns-363",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69500681893516,
+              10.77683769403882,
+              23.35
+            ],
+            [
+              106.6950059000843,
+              10.776836691549157,
+              23.35
+            ],
+            [
+              106.69500317878156,
+              10.776839098603595,
+              23.35
+            ],
+            [
+              106.69500409763242,
+              10.776840101093253,
+              23.35
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "363",
+        "blockName": "Cột nhà",
+        "height": 10.35,
+        "sourceId": "363",
+        "sourceFile": "rear-upper-columns.geojson",
+        "componentId": "rear-upper-columns",
+        "componentName": "Rear upper columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "rear-upper-columns-364",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69497619057657,
+              10.776804277715389,
+              23.35
+            ],
+            [
+              106.69497527172591,
+              10.77680327522564,
+              23.35
+            ],
+            [
+              106.69497255042276,
+              10.776805682280076,
+              23.35
+            ],
+            [
+              106.69497346927352,
+              10.776806684769824,
+              23.35
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "364",
+        "blockName": "Cột nhà",
+        "height": 10.35,
+        "sourceId": "364",
+        "sourceFile": "rear-upper-columns.geojson",
+        "componentId": "rear-upper-columns",
+        "componentName": "Rear upper columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "rear-upper-columns-365",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69494648107514,
+              10.776771863878793,
+              23.35
+            ],
+            [
+              106.69494556222469,
+              10.776770861388956,
+              23.35
+            ],
+            [
+              106.69494284092133,
+              10.77677326844339,
+              23.35
+            ],
+            [
+              106.69494375977189,
+              10.776774270933227,
+              23.35
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "365",
+        "blockName": "Cột nhà",
+        "height": 10.35,
+        "sourceId": "365",
+        "sourceFile": "rear-upper-columns.geojson",
+        "componentId": "rear-upper-columns",
+        "componentName": "Rear upper columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "rear-upper-columns-366",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69494556222469,
+              10.776770861388956,
+              23.35
+            ],
+            [
+              106.69494658271222,
+              10.77676995874354,
+              23.35
+            ],
+            [
+              106.69494413244271,
+              10.776767285438737,
+              23.35
+            ],
+            [
+              106.69494311195518,
+              10.776768188084155,
+              23.35
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "366",
+        "blockName": "Cột nhà",
+        "height": 10.35,
+        "sourceId": "366",
+        "sourceFile": "rear-upper-columns.geojson",
+        "componentId": "rear-upper-columns",
+        "componentName": "Rear upper columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "rear-upper-columns-367",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69497957847103,
+              10.776740773206527,
+              23.35
+            ],
+            [
+              106.69498059895837,
+              10.776739870560997,
+              23.35
+            ],
+            [
+              106.69497814868856,
+              10.776737197256196,
+              23.35
+            ],
+            [
+              106.69497712820123,
+              10.776738099901726,
+              23.35
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "367",
+        "blockName": "Cột nhà",
+        "height": 10.35,
+        "sourceId": "367",
+        "sourceFile": "rear-upper-columns.geojson",
+        "componentId": "rear-upper-columns",
+        "componentName": "Rear upper columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "rear-upper-columns-368",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69501359471057,
+              10.77671068502039,
+              23.35
+            ],
+            [
+              106.6950146151977,
+              10.776709782374747,
+              23.35
+            ],
+            [
+              106.69501216492759,
+              10.776707109069946,
+              23.35
+            ],
+            [
+              106.69501114444047,
+              10.77670801171559,
+              23.35
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "368",
+        "blockName": "Cột nhà",
+        "height": 10.35,
+        "sourceId": "368",
+        "sourceFile": "rear-upper-columns.geojson",
+        "componentId": "rear-upper-columns",
+        "componentName": "Rear upper columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "rear-upper-columns-369",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69511564338849,
+              10.776620420439716,
+              23.35
+            ],
+            [
+              106.695116663875,
+              10.77661951779374,
+              23.35
+            ],
+            [
+              106.69511421360396,
+              10.77661684448894,
+              23.35
+            ],
+            [
+              106.69511319311744,
+              10.776617747134916,
+              23.35
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "369",
+        "blockName": "Cột nhà",
+        "height": 10.35,
+        "sourceId": "369",
+        "sourceFile": "rear-upper-columns.geojson",
+        "componentId": "rear-upper-columns",
+        "componentName": "Rear upper columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "rear-upper-columns-370",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69514965960086,
+              10.77659033223874,
+              23.35
+            ],
+            [
+              106.69515068008715,
+              10.776589429592656,
+              23.35
+            ],
+            [
+              106.69514822981583,
+              10.776586756287852,
+              23.35
+            ],
+            [
+              106.6951472093295,
+              10.776587658933938,
+              23.35
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "370",
+        "blockName": "Cột nhà",
+        "height": 10.35,
+        "sourceId": "370",
+        "sourceFile": "rear-upper-columns.geojson",
+        "componentId": "rear-upper-columns",
+        "componentName": "Rear upper columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "rear-upper-columns-371",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6951826553204,
+              10.77656114668025,
+              23.35
+            ],
+            [
+              106.69518367580639,
+              10.776560244034055,
+              23.35
+            ],
+            [
+              106.69518122553474,
+              10.776557570729253,
+              23.35
+            ],
+            [
+              106.69518020504874,
+              10.776558473375445,
+              23.35
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "371",
+        "blockName": "Cột nhà",
+        "height": 10.35,
+        "sourceId": "371",
+        "sourceFile": "rear-upper-columns.geojson",
+        "componentId": "rear-upper-columns",
+        "componentName": "Rear upper columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "rear-upper-columns-372",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69518367580639,
+              10.776560244034055,
+              23.35
+            ],
+            [
+              106.69518459465682,
+              10.776561246523352,
+              23.35
+            ],
+            [
+              106.69518731595488,
+              10.776558839468896,
+              23.35
+            ],
+            [
+              106.69518639710445,
+              10.776557836979599,
+              23.35
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "372",
+        "blockName": "Cột nhà",
+        "height": 10.35,
+        "sourceId": "372",
+        "sourceFile": "rear-upper-columns.geojson",
+        "componentId": "rear-upper-columns",
+        "componentName": "Rear upper columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "rear-upper-columns-373",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69521430415725,
+              10.776593660342444,
+              23.35
+            ],
+            [
+              106.69521522300789,
+              10.77659466283165,
+              23.35
+            ],
+            [
+              106.69521794430564,
+              10.776592255777192,
+              23.35
+            ],
+            [
+              106.69521702545498,
+              10.776591253287988,
+              23.35
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "373",
+        "blockName": "Cột nhà",
+        "height": 10.35,
+        "sourceId": "373",
+        "sourceFile": "rear-upper-columns.geojson",
+        "componentId": "rear-upper-columns",
+        "componentName": "Rear upper columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "rear-upper-columns-374",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69524493251481,
+              10.776627076647829,
+              23.35
+            ],
+            [
+              106.69524585136567,
+              10.776628079136943,
+              23.35
+            ],
+            [
+              106.69524857266322,
+              10.776625672082488,
+              23.35
+            ],
+            [
+              106.69524765381247,
+              10.776624669593371,
+              23.35
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "374",
+        "blockName": "Cột nhà",
+        "height": 10.35,
+        "sourceId": "374",
+        "sourceFile": "rear-upper-columns.geojson",
+        "componentId": "rear-upper-columns",
+        "componentName": "Rear upper columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "rear-upper-columns-375",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69527556087921,
+              10.776660492950203,
+              23.35
+            ],
+            [
+              106.69527647973027,
+              10.776661495439226,
+              23.35
+            ],
+            [
+              106.69527920102762,
+              10.776659088384772,
+              23.35
+            ],
+            [
+              106.69527828217656,
+              10.776658085895747,
+              23.35
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "375",
+        "blockName": "Cột nhà",
+        "height": 10.35,
+        "sourceId": "375",
+        "sourceFile": "rear-upper-columns.geojson",
+        "componentId": "rear-upper-columns",
+        "componentName": "Rear upper columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "rear-upper-columns-376",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69530618925053,
+              10.776693909249571,
+              23.35
+            ],
+            [
+              106.69530710810169,
+              10.776694911738506,
+              23.35
+            ],
+            [
+              106.69530982939882,
+              10.77669250468405,
+              23.35
+            ],
+            [
+              106.69530891054757,
+              10.776691502195115,
+              23.35
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "376",
+        "blockName": "Cột nhà",
+        "height": 10.35,
+        "sourceId": "376",
+        "sourceFile": "rear-upper-columns.geojson",
+        "componentId": "rear-upper-columns",
+        "componentName": "Rear upper columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "rear-upper-columns-377",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69533681762857,
+              10.77672732554593,
+              23.35
+            ],
+            [
+              106.69533773647993,
+              10.776728328034777,
+              23.35
+            ],
+            [
+              106.69534045777675,
+              10.77672592098032,
+              23.35
+            ],
+            [
+              106.6953395389254,
+              10.776724918491475,
+              23.35
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "377",
+        "blockName": "Cột nhà",
+        "height": 10.35,
+        "sourceId": "377",
+        "sourceFile": "rear-upper-columns.geojson",
+        "componentId": "rear-upper-columns",
+        "componentName": "Rear upper columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "rear-upper-columns-378",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69536652716174,
+              10.776759739350528,
+              23.35
+            ],
+            [
+              106.69536744601332,
+              10.776760741839285,
+              23.35
+            ],
+            [
+              106.69537016730995,
+              10.77675833478483,
+              23.35
+            ],
+            [
+              106.69536924845826,
+              10.776757332296073,
+              23.35
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "378",
+        "blockName": "Cột nhà",
+        "height": 10.35,
+        "sourceId": "378",
+        "sourceFile": "rear-upper-columns.geojson",
+        "componentId": "rear-upper-columns",
+        "componentName": "Rear upper columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "rear-upper-columns-383",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69543756627851,
+              10.776904445439373,
+              23.35
+            ],
+            [
+              106.69543664742713,
+              10.776903442949973,
+              23.35
+            ],
+            [
+              106.69543936872886,
+              10.776901035895516,
+              23.35
+            ],
+            [
+              106.69544028758021,
+              10.776902038384913,
+              23.35
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "383",
+        "blockName": "Cột nhà",
+        "height": 10.35,
+        "sourceId": "383",
+        "sourceFile": "rear-upper-columns.geojson",
+        "componentId": "rear-upper-columns",
+        "componentName": "Rear upper columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "rear-upper-columns-384",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.695403875066,
+              10.77686768749303,
+              23.35
+            ],
+            [
+              106.69540295621485,
+              10.776866685003533,
+              23.35
+            ],
+            [
+              106.69540567751687,
+              10.776864277949075,
+              23.35
+            ],
+            [
+              106.69540659636803,
+              10.776865280438573,
+              23.35
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "384",
+        "blockName": "Cột nhà",
+        "height": 10.35,
+        "sourceId": "384",
+        "sourceFile": "rear-upper-columns.geojson",
+        "componentId": "rear-upper-columns",
+        "componentName": "Rear upper columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    },
+    {
+      "id": "rear-upper-columns-385",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69537018386174,
+              10.776830929543049,
+              23.35
+            ],
+            [
+              106.69536926501081,
+              10.776829927053452,
+              23.35
+            ],
+            [
+              106.69537198631313,
+              10.776827519998994,
+              23.35
+            ],
+            [
+              106.69537290516409,
+              10.776828522488591,
+              23.35
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "385",
+        "blockName": "Cột nhà",
+        "height": 10.35,
+        "sourceId": "385",
+        "sourceFile": "rear-upper-columns.geojson",
+        "componentId": "rear-upper-columns",
+        "componentName": "Rear upper columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 columns",
+        "lod3Evidence": "Main, secondary, divider, balcony support, and rear upper columns are modeled as individual elements."
+      }
+    }
+  ]
+}

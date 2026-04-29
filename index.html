@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="initial-scale=1,maximum-scale=1,user-scalable=no"
+    />
+    <title>GR09 | LAB02 - IE402.Q21</title>
+    <link rel="stylesheet" href="./src/styles/theme.css" />
+    <link rel="stylesheet" href="./src/styles/layout.css" />
+    <link rel="stylesheet" href="./src/styles/components.css" />
+    <link
+      rel="stylesheet"
+      href="https://js.arcgis.com/4.16/esri/themes/light/main.css"
+    />
+    <script src="./src/scripts/settings/app-config.js"></script>
+    <script src="./src/scripts/map/scene.js"></script>
+    <script src="./src/scripts/controls/map-controls.js"></script>
+    <script src="https://js.arcgis.com/4.16/"></script>
+    <script src="./src/scripts/scene-bootstrap.js"></script>
+  </head>
+
+  <body>
+    <main id="viewDiv" aria-label="Independence Palace 3D map"></main>
+
+    <section
+      id="mapControls"
+      class="overlay-card overlay-card--top-right"
+      aria-label="Map controls"
+    >
+      <label for="basemapControl">Basemap</label>
+      <select id="basemapControl">
+        <option value="gray-vector" selected>Light Gray</option>
+        <option value="streets-navigation-vector">Navigation</option>
+        <option value="satellite">Satellite</option>
+      </select>
+
+      <button id="resetViewBtn">Reset view</button>
+    </section>
+
+    <aside id="cameraInfo" class="overlay-card overlay-card--bottom-left">
+      Loading camera information...
+    </aside>
+  </body>
+</html>

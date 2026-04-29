@@ -1,0 +1,4137 @@
+{
+  "type": "FeatureCollection",
+  "lodLevel": "LoD3",
+  "lod3Category": "LoD3 access details",
+  "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components.",
+  "timestamp": "2026-04-29T17:07:16.094Z",
+  "features": [
+    {
+      "id": "stairs-2",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69562101128535,
+              10.777171789207204,
+              15
+            ],
+            [
+              106.69551896240013,
+              10.777262053765622,
+              15
+            ],
+            [
+              106.69555265366495,
+              10.777298811704684,
+              15
+            ],
+            [
+              106.6956547025401,
+              10.777208547146268,
+              15
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "2",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "2",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-3",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69562101128535,
+              10.777171789207204,
+              15.2
+            ],
+            [
+              106.69551896240013,
+              10.777262053765622,
+              15.2
+            ],
+            [
+              106.69555112224364,
+              10.77729714088935,
+              15.2
+            ],
+            [
+              106.6956531711192,
+              10.777206876330936,
+              15.2
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "3",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "3",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-4",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69562101128535,
+              10.777171789207204,
+              15.4
+            ],
+            [
+              106.69551896240013,
+              10.777262053765622,
+              15.4
+            ],
+            [
+              106.69554959082235,
+              10.77729547007401,
+              15.4
+            ],
+            [
+              106.6956516396984,
+              10.777205205515594,
+              15.4
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "4",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "4",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-5",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69562101128535,
+              10.777171789207204,
+              15.6
+            ],
+            [
+              106.69551896240013,
+              10.777262053765622,
+              15.6
+            ],
+            [
+              106.69554805940115,
+              10.777293799258661,
+              15.6
+            ],
+            [
+              106.6956501082776,
+              10.777203534700247,
+              15.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "5",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "5",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-6",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69562101128535,
+              10.777171789207204,
+              15.8
+            ],
+            [
+              106.69551896240013,
+              10.777262053765622,
+              15.8
+            ],
+            [
+              106.69554652797983,
+              10.777292128443305,
+              15.8
+            ],
+            [
+              106.69564857685683,
+              10.777201863884889,
+              15.8
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "6",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "6",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-7",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69562101128535,
+              10.777171789207204,
+              16
+            ],
+            [
+              106.69551896240013,
+              10.777262053765622,
+              16
+            ],
+            [
+              106.69554499655864,
+              10.777290457627943,
+              16
+            ],
+            [
+              106.69564704543603,
+              10.777200193069527,
+              16
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "7",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "7",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-8",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69562101128535,
+              10.777171789207204,
+              16.2
+            ],
+            [
+              106.69551896240013,
+              10.777262053765622,
+              16.2
+            ],
+            [
+              106.69554346513733,
+              10.777288786812573,
+              16.2
+            ],
+            [
+              106.69564551401523,
+              10.777198522254157,
+              16.2
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "8",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "8",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-9",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69562101128535,
+              10.777171789207204,
+              16.4
+            ],
+            [
+              106.69551896240013,
+              10.777262053765622,
+              16.4
+            ],
+            [
+              106.69554193371613,
+              10.777287115997193,
+              16.4
+            ],
+            [
+              106.69564398259453,
+              10.777196851438779,
+              16.4
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "9",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "9",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-10",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69562101128535,
+              10.777171789207204,
+              16.6
+            ],
+            [
+              106.69551896240013,
+              10.777262053765622,
+              16.6
+            ],
+            [
+              106.69554040229504,
+              10.77728544518181,
+              16.6
+            ],
+            [
+              106.69564245117374,
+              10.777195180623394,
+              16.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "10",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "10",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-11",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69562101128535,
+              10.777171789207204,
+              16.8
+            ],
+            [
+              106.69551896240013,
+              10.777262053765622,
+              16.8
+            ],
+            [
+              106.69553121376823,
+              10.777275420289337,
+              16.8
+            ],
+            [
+              106.69563326264978,
+              10.777185155730919,
+              16.8
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "11",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "11",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-12",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69562101128535,
+              10.777171789207204,
+              17
+            ],
+            [
+              106.69551896240013,
+              10.777262053765622,
+              17
+            ],
+            [
+              106.69552968234713,
+              10.777273749473899,
+              17
+            ],
+            [
+              106.69563173122918,
+              10.777183484915485,
+              17
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "12",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "12",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-13",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69562101128535,
+              10.777171789207204,
+              17.2
+            ],
+            [
+              106.69551896240013,
+              10.777262053765622,
+              17.2
+            ],
+            [
+              106.69552815092604,
+              10.777272078658454,
+              17.2
+            ],
+            [
+              106.69563019980849,
+              10.777181814100036,
+              17.2
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "13",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "13",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-14",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69562101128535,
+              10.777171789207204,
+              17.4
+            ],
+            [
+              106.69551896240013,
+              10.777262053765622,
+              17.4
+            ],
+            [
+              106.69552661950502,
+              10.777270407843,
+              17.4
+            ],
+            [
+              106.69562866838801,
+              10.777180143284584,
+              17.4
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "14",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "14",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-15",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69562101128535,
+              10.777171789207204,
+              17.6
+            ],
+            [
+              106.69551896240013,
+              10.777262053765622,
+              17.6
+            ],
+            [
+              106.69552508808404,
+              10.777268737027539,
+              17.6
+            ],
+            [
+              106.69562713696742,
+              10.777178472469123,
+              17.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "15",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "15",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-16",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69562101128535,
+              10.777171789207204,
+              17.8
+            ],
+            [
+              106.69551896240013,
+              10.777262053765622,
+              17.8
+            ],
+            [
+              106.69552355666302,
+              10.77726706621207,
+              17.8
+            ],
+            [
+              106.69562560554682,
+              10.777176801653654,
+              17.8
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "16",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "16",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-17",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69562101128535,
+              10.777171789207204,
+              18
+            ],
+            [
+              106.69551896240013,
+              10.777262053765622,
+              18
+            ],
+            [
+              106.69552202524203,
+              10.777265395396595,
+              18
+            ],
+            [
+              106.69562407412634,
+              10.777175130838177,
+              18
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "17",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "17",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-18",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69562101128535,
+              10.777171789207204,
+              18.2
+            ],
+            [
+              106.69551896240013,
+              10.777262053765622,
+              18.2
+            ],
+            [
+              106.69552049382105,
+              10.777263724581111,
+              18.2
+            ],
+            [
+              106.69562254270585,
+              10.777173460022695,
+              18.2
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "18",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "18",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-19",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69570598337894,
+              10.776794090567618,
+              15
+            ],
+            [
+              106.69576724014863,
+              10.776860923169359,
+              15
+            ],
+            [
+              106.69581146128081,
+              10.77682180853148,
+              15
+            ],
+            [
+              106.69575020450134,
+              10.776754975929737,
+              15
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "19",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "19",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-20",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69570598337894,
+              10.776794090567618,
+              15.2
+            ],
+            [
+              106.69576724014863,
+              10.776860923169359,
+              15.2
+            ],
+            [
+              106.69580976046826,
+              10.776823312940744,
+              15.2
+            ],
+            [
+              106.69574850368909,
+              10.776756480339001,
+              15.2
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "20",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "20",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-21",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69570598337894,
+              10.776794090567618,
+              15.4
+            ],
+            [
+              106.69576724014863,
+              10.776860923169359,
+              15.4
+            ],
+            [
+              106.6958080596557,
+              10.776824817350002,
+              15.4
+            ],
+            [
+              106.69574680287694,
+              10.776757984748258,
+              15.4
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "21",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "21",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-22",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69570598337894,
+              10.776794090567618,
+              15.6
+            ],
+            [
+              106.69576724014863,
+              10.776860923169359,
+              15.6
+            ],
+            [
+              106.69580635884304,
+              10.776826321759247,
+              15.6
+            ],
+            [
+              106.69574510206469,
+              10.776759489157506,
+              15.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "22",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "22",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-23",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69570598337894,
+              10.776794090567618,
+              15.8
+            ],
+            [
+              106.69576724014863,
+              10.776860923169359,
+              15.8
+            ],
+            [
+              106.69580465803048,
+              10.776827826168487,
+              15.8
+            ],
+            [
+              106.69574340125244,
+              10.776760993566741,
+              15.8
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "23",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "23",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-24",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69570598337894,
+              10.776794090567618,
+              16
+            ],
+            [
+              106.69576724014863,
+              10.776860923169359,
+              16
+            ],
+            [
+              106.69580295721782,
+              10.776829330577712,
+              16
+            ],
+            [
+              106.69574170044018,
+              10.77676249797597,
+              16
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "24",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "24",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-25",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69570598337894,
+              10.776794090567618,
+              16.2
+            ],
+            [
+              106.69576724014863,
+              10.776860923169359,
+              16.2
+            ],
+            [
+              106.69580125640516,
+              10.776830834986932,
+              16.2
+            ],
+            [
+              106.69573999962793,
+              10.776764002385187,
+              16.2
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "25",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "25",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-26",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69570598337894,
+              10.776794090567618,
+              16.4
+            ],
+            [
+              106.69576724014863,
+              10.776860923169359,
+              16.4
+            ],
+            [
+              106.69579955559252,
+              10.776832339396142,
+              16.4
+            ],
+            [
+              106.69573829881568,
+              10.776765506794398,
+              16.4
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "26",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "26",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-27",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69570598337894,
+              10.776794090567618,
+              16.6
+            ],
+            [
+              106.69576724014863,
+              10.776860923169359,
+              16.6
+            ],
+            [
+              106.69579785477984,
+              10.77683384380534,
+              16.6
+            ],
+            [
+              106.69573659800334,
+              10.776767011203598,
+              16.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "27",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "27",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-28",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69570598337894,
+              10.776794090567618,
+              16.8
+            ],
+            [
+              106.69576724014863,
+              10.776860923169359,
+              16.8
+            ],
+            [
+              106.69578764990338,
+              10.776842870260348,
+              16.8
+            ],
+            [
+              106.6957263931292,
+              10.776776037658607,
+              16.8
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "28",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "28",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-29",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69570598337894,
+              10.776794090567618,
+              17
+            ],
+            [
+              106.69576724014863,
+              10.776860923169359,
+              17
+            ],
+            [
+              106.69578594909053,
+              10.776844374669484,
+              17
+            ],
+            [
+              106.69572469231676,
+              10.77677754206774,
+              17
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "29",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "29",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-30",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69570598337894,
+              10.776794090567618,
+              17.2
+            ],
+            [
+              106.69576724014863,
+              10.776860923169359,
+              17.2
+            ],
+            [
+              106.69578424827776,
+              10.77684587907861,
+              17.2
+            ],
+            [
+              106.69572299150428,
+              10.776779046476868,
+              17.2
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "30",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "30",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-31",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69570598337894,
+              10.776794090567618,
+              17.4
+            ],
+            [
+              106.69576724014863,
+              10.776860923169359,
+              17.4
+            ],
+            [
+              106.6957825474649,
+              10.776847383487725,
+              17.4
+            ],
+            [
+              106.69572129069184,
+              10.776780550885983,
+              17.4
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "31",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "31",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-32",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69570598337894,
+              10.776794090567618,
+              17.6
+            ],
+            [
+              106.69576724014863,
+              10.776860923169359,
+              17.6
+            ],
+            [
+              106.69578084665204,
+              10.776848887896833,
+              17.6
+            ],
+            [
+              106.69571958987939,
+              10.77678205529509,
+              17.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "32",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "32",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-33",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69570598337894,
+              10.776794090567618,
+              17.8
+            ],
+            [
+              106.69576724014863,
+              10.776860923169359,
+              17.8
+            ],
+            [
+              106.69577914583917,
+              10.776850392305933,
+              17.8
+            ],
+            [
+              106.69571788906683,
+              10.776783559704189,
+              17.8
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "33",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "33",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-34",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69570598337894,
+              10.776794090567618,
+              18
+            ],
+            [
+              106.69576724014863,
+              10.776860923169359,
+              18
+            ],
+            [
+              106.69577744502632,
+              10.776851896715021,
+              18
+            ],
+            [
+              106.69571618825438,
+              10.776785064113277,
+              18
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "34",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "34",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-35",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69570598337894,
+              10.776794090567618,
+              18.2
+            ],
+            [
+              106.69576724014863,
+              10.776860923169359,
+              18.2
+            ],
+            [
+              106.69577574421335,
+              10.776853401124102,
+              18.2
+            ],
+            [
+              106.6957144874418,
+              10.77678656852236,
+              18.2
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "35",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "35",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-36",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69570598337894,
+              10.776794090567618,
+              18.4
+            ],
+            [
+              106.69576724014863,
+              10.776860923169359,
+              18.4
+            ],
+            [
+              106.69577404340049,
+              10.77685490553317,
+              18.4
+            ],
+            [
+              106.69571278662926,
+              10.77678807293143,
+              18.4
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "36",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "36",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-37",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69518896394071,
+              10.777372422644845,
+              15
+            ],
+            [
+              106.69512770710782,
+              10.777305590007009,
+              15
+            ],
+            [
+              106.69508348589879,
+              10.777344704638622,
+              15
+            ],
+            [
+              106.69514474272192,
+              10.777411537276459,
+              15
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "37",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "37",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-38",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69518896394071,
+              10.777372422644845,
+              15.2
+            ],
+            [
+              106.69512770710782,
+              10.777305590007009,
+              15.2
+            ],
+            [
+              106.6950851867148,
+              10.77734320022983,
+              15.2
+            ],
+            [
+              106.69514644353823,
+              10.777410032867664,
+              15.2
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "38",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "38",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-39",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69518896394071,
+              10.777372422644845,
+              15.4
+            ],
+            [
+              106.69512770710782,
+              10.777305590007009,
+              15.4
+            ],
+            [
+              106.6950868875307,
+              10.777341695821029,
+              15.4
+            ],
+            [
+              106.69514814435456,
+              10.777408528458864,
+              15.4
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "39",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "39",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-40",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69518896394071,
+              10.777372422644845,
+              15.6
+            ],
+            [
+              106.69512770710782,
+              10.777305590007009,
+              15.6
+            ],
+            [
+              106.69508858834664,
+              10.777340191412216,
+              15.6
+            ],
+            [
+              106.69514984517079,
+              10.777407024050051,
+              15.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "40",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "40",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-41",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69518896394071,
+              10.777372422644845,
+              15.8
+            ],
+            [
+              106.69512770710782,
+              10.777305590007009,
+              15.8
+            ],
+            [
+              106.69509028916245,
+              10.777338687003398,
+              15.8
+            ],
+            [
+              106.69515154598712,
+              10.777405519641231,
+              15.8
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "41",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "41",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-42",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69518896394071,
+              10.777372422644845,
+              16
+            ],
+            [
+              106.69512770710782,
+              10.777305590007009,
+              16
+            ],
+            [
+              106.69509198997835,
+              10.777337182594568,
+              16
+            ],
+            [
+              106.69515324680333,
+              10.777404015232403,
+              16
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "42",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "42",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-43",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69518896394071,
+              10.777372422644845,
+              16.2
+            ],
+            [
+              106.69512770710782,
+              10.777305590007009,
+              16.2
+            ],
+            [
+              106.69509369079418,
+              10.777335678185727,
+              16.2
+            ],
+            [
+              106.69515494761956,
+              10.777402510823563,
+              16.2
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "43",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "43",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-44",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69518896394071,
+              10.777372422644845,
+              16.4
+            ],
+            [
+              106.69512770710782,
+              10.777305590007009,
+              16.4
+            ],
+            [
+              106.6950953916101,
+              10.777334173776882,
+              16.4
+            ],
+            [
+              106.69515664843578,
+              10.777401006414717,
+              16.4
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "44",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "44",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-45",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69518896394071,
+              10.777372422644845,
+              16.6
+            ],
+            [
+              106.69512770710782,
+              10.777305590007009,
+              16.6
+            ],
+            [
+              106.6950970924259,
+              10.777332669368024,
+              16.6
+            ],
+            [
+              106.695158349252,
+              10.777399502005858,
+              16.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "45",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "45",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-46",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69518896394071,
+              10.777372422644845,
+              16.8
+            ],
+            [
+              106.69512770710782,
+              10.777305590007009,
+              16.8
+            ],
+            [
+              106.69510729732049,
+              10.777323642914686,
+              16.8
+            ],
+            [
+              106.69516855414882,
+              10.77739047555252,
+              16.8
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "46",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "46",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-47",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69518896394071,
+              10.777372422644845,
+              17
+            ],
+            [
+              106.69512770710782,
+              10.777305590007009,
+              17
+            ],
+            [
+              106.69510899813619,
+              10.777322138505765,
+              17
+            ],
+            [
+              106.69517025496492,
+              10.777388971143598,
+              17
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "47",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "47",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-48",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69518896394071,
+              10.777372422644845,
+              17.2
+            ],
+            [
+              106.69512770710782,
+              10.777305590007009,
+              17.2
+            ],
+            [
+              106.69511069895191,
+              10.777320634096835,
+              17.2
+            ],
+            [
+              106.69517195578095,
+              10.777387466734668,
+              17.2
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "48",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "48",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-49",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69518896394071,
+              10.777372422644845,
+              17.4
+            ],
+            [
+              106.69512770710782,
+              10.777305590007009,
+              17.4
+            ],
+            [
+              106.69511239976751,
+              10.777319129687893,
+              17.4
+            ],
+            [
+              106.69517365659706,
+              10.777385962325727,
+              17.4
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "49",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "49",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-50",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69518896394071,
+              10.777372422644845,
+              17.6
+            ],
+            [
+              106.69512770710782,
+              10.777305590007009,
+              17.6
+            ],
+            [
+              106.69511410058324,
+              10.777317625278942,
+              17.6
+            ],
+            [
+              106.69517535741309,
+              10.777384457916778,
+              17.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "50",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "50",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-51",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69518896394071,
+              10.777372422644845,
+              17.8
+            ],
+            [
+              106.69512770710782,
+              10.777305590007009,
+              17.8
+            ],
+            [
+              106.69511580139886,
+              10.777316120869983,
+              17.8
+            ],
+            [
+              106.69517705822909,
+              10.77738295350782,
+              17.8
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "51",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "51",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-52",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69518896394071,
+              10.777372422644845,
+              18
+            ],
+            [
+              106.69512770710782,
+              10.777305590007009,
+              18
+            ],
+            [
+              106.69511750221446,
+              10.777314616461014,
+              18
+            ],
+            [
+              106.69517875904512,
+              10.77738144909885,
+              18
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "52",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "52",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-53",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69518896394071,
+              10.777372422644845,
+              18.2
+            ],
+            [
+              106.69512770710782,
+              10.777305590007009,
+              18.2
+            ],
+            [
+              106.69511920303006,
+              10.777313112052038,
+              18.2
+            ],
+            [
+              106.69518045986104,
+              10.777379944689875,
+              18.2
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "53",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "53",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-54",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69518896394071,
+              10.777372422644845,
+              18.4
+            ],
+            [
+              106.69512770710782,
+              10.777305590007009,
+              18.4
+            ],
+            [
+              106.69512090384568,
+              10.77731160764305,
+              18.4
+            ],
+            [
+              106.69518216067706,
+              10.777378440280884,
+              18.4
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "54",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "54",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-55",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69518673864115,
+              10.776563585665027,
+              15
+            ],
+            [
+              106.69521124132186,
+              10.77659031871174,
+              15
+            ],
+            [
+              106.69525035998117,
+              10.77655571730163,
+              15
+            ],
+            [
+              106.69522585729699,
+              10.776528984254915,
+              15
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "55",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "55",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-56",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69518673864115,
+              10.776563585665027,
+              15.2
+            ],
+            [
+              106.69521124132186,
+              10.77659031871174,
+              15.2
+            ],
+            [
+              106.69524865917003,
+              10.776557221710865,
+              15.2
+            ],
+            [
+              106.69522415648595,
+              10.776530488664152,
+              15.2
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "56",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "56",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-57",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69518673864115,
+              10.776563585665027,
+              15.4
+            ],
+            [
+              106.69521124132186,
+              10.77659031871174,
+              15.4
+            ],
+            [
+              106.69524695835891,
+              10.776558726120093,
+              15.4
+            ],
+            [
+              106.69522245567504,
+              10.77653199307338,
+              15.4
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "57",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "57",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-58",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69518673864115,
+              10.776563585665027,
+              15.6
+            ],
+            [
+              106.69521124132186,
+              10.77659031871174,
+              15.6
+            ],
+            [
+              106.69524525754777,
+              10.776560230529313,
+              15.6
+            ],
+            [
+              106.69522075486411,
+              10.776533497482598,
+              15.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "58",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "58",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-59",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69518673864115,
+              10.776563585665027,
+              15.8
+            ],
+            [
+              106.69521124132186,
+              10.77659031871174,
+              15.8
+            ],
+            [
+              106.69524355673664,
+              10.776561734938523,
+              15.8
+            ],
+            [
+              106.69521905405307,
+              10.776535001891808,
+              15.8
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "59",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "59",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-60",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69518673864115,
+              10.776563585665027,
+              16
+            ],
+            [
+              106.69521124132186,
+              10.77659031871174,
+              16
+            ],
+            [
+              106.6952418559255,
+              10.77656323934772,
+              16
+            ],
+            [
+              106.69521735324204,
+              10.776536506301008,
+              16
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "60",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "60",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-61",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69518673864115,
+              10.776563585665027,
+              16.2
+            ],
+            [
+              106.69521124132186,
+              10.77659031871174,
+              16.2
+            ],
+            [
+              106.69524015511438,
+              10.776564743756914,
+              16.2
+            ],
+            [
+              106.69521565243112,
+              10.776538010710201,
+              16.2
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "61",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "61",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-62",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69518673864115,
+              10.776563585665027,
+              16.4
+            ],
+            [
+              106.69521124132186,
+              10.77659031871174,
+              16.4
+            ],
+            [
+              106.69523845430312,
+              10.776566248166095,
+              16.4
+            ],
+            [
+              106.69521395161998,
+              10.776539515119381,
+              16.4
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "62",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "62",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-63",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69518673864115,
+              10.776563585665027,
+              16.6
+            ],
+            [
+              106.69521124132186,
+              10.77659031871174,
+              16.6
+            ],
+            [
+              106.695236753492,
+              10.776567752575266,
+              16.6
+            ],
+            [
+              106.69521225080895,
+              10.776541019528553,
+              16.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "63",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "63",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-64",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69518673864115,
+              10.776563585665027,
+              16.8
+            ],
+            [
+              106.69521124132186,
+              10.77659031871174,
+              16.8
+            ],
+            [
+              106.6952265486244,
+              10.776576779030108,
+              16.8
+            ],
+            [
+              106.69520204594235,
+              10.776550045983393,
+              16.8
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "64",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "64",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-65",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69518673864115,
+              10.776563585665027,
+              17
+            ],
+            [
+              106.69521124132186,
+              10.77659031871174,
+              17
+            ],
+            [
+              106.69522484781305,
+              10.776578283439214,
+              17
+            ],
+            [
+              106.69520034513113,
+              10.776551550392501,
+              17
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "65",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "65",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-66",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69518673864115,
+              10.776563585665027,
+              17.2
+            ],
+            [
+              106.69521124132186,
+              10.77659031871174,
+              17.2
+            ],
+            [
+              106.69522314700171,
+              10.776579787848314,
+              17.2
+            ],
+            [
+              106.69519864431989,
+              10.7765530548016,
+              17.2
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "66",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "66",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-67",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69518673864115,
+              10.776563585665027,
+              17.4
+            ],
+            [
+              106.69521124132186,
+              10.77659031871174,
+              17.4
+            ],
+            [
+              106.69522144619039,
+              10.7765812922574,
+              17.4
+            ],
+            [
+              106.69519694350876,
+              10.77655455921069,
+              17.4
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "67",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "67",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-68",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69518673864115,
+              10.776563585665027,
+              17.6
+            ],
+            [
+              106.69521124132186,
+              10.77659031871174,
+              17.6
+            ],
+            [
+              106.69521974537895,
+              10.776582796666482,
+              17.6
+            ],
+            [
+              106.69519524269752,
+              10.77655606361977,
+              17.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "68",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "68",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-69",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69518673864115,
+              10.776563585665027,
+              17.8
+            ],
+            [
+              106.69521124132186,
+              10.77659031871174,
+              17.8
+            ],
+            [
+              106.69521804456762,
+              10.776584301075552,
+              17.8
+            ],
+            [
+              106.6951935418863,
+              10.776557568028839,
+              17.8
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "69",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "69",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-70",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69518673864115,
+              10.776563585665027,
+              18
+            ],
+            [
+              106.69521124132186,
+              10.77659031871174,
+              18
+            ],
+            [
+              106.69521634375617,
+              10.776585805484615,
+              18
+            ],
+            [
+              106.69519184107507,
+              10.7765590724379,
+              18
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "70",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "70",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-71",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69518673864115,
+              10.776563585665027,
+              18.2
+            ],
+            [
+              106.69521124132186,
+              10.77659031871174,
+              18.2
+            ],
+            [
+              106.69521464294473,
+              10.776587309893667,
+              18.2
+            ],
+            [
+              106.69519014026373,
+              10.776560576846952,
+              18.2
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "71",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "71",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-72",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69518673864115,
+              10.776563585665027,
+              18.4
+            ],
+            [
+              106.69521124132186,
+              10.77659031871174,
+              18.4
+            ],
+            [
+              106.69521294213331,
+              10.776588814302707,
+              18.4
+            ],
+            [
+              106.69518843945251,
+              10.776562081255996,
+              18.4
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "72",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "72",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-73",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6949486250616,
+              10.776774203019931,
+              15
+            ],
+            [
+              106.69497312775938,
+              10.776800936066643,
+              15
+            ],
+            [
+              106.69493400906376,
+              10.77683553747185,
+              15
+            ],
+            [
+              106.69490950636941,
+              10.776808804425139,
+              15
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "73",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "73",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-74",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6949486250616,
+              10.776774203019931,
+              15.2
+            ],
+            [
+              106.69497312775938,
+              10.776800936066643,
+              15.2
+            ],
+            [
+              106.69493570987683,
+              10.776834033063032,
+              15.2
+            ],
+            [
+              106.69491120718229,
+              10.77680730001632,
+              15.2
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "74",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "74",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-75",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6949486250616,
+              10.776774203019931,
+              15.4
+            ],
+            [
+              106.69497312775938,
+              10.776800936066643,
+              15.4
+            ],
+            [
+              106.69493741068979,
+              10.7768325286542,
+              15.4
+            ],
+            [
+              106.69491290799515,
+              10.77680579560749,
+              15.4
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "75",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "75",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-76",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6949486250616,
+              10.776774203019931,
+              15.6
+            ],
+            [
+              106.69497312775938,
+              10.776800936066643,
+              15.6
+            ],
+            [
+              106.69493911150286,
+              10.77683102424536,
+              15.6
+            ],
+            [
+              106.694914608808,
+              10.77680429119865,
+              15.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "76",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "76",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-77",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6949486250616,
+              10.776774203019931,
+              15.8
+            ],
+            [
+              106.69497312775938,
+              10.776800936066643,
+              15.8
+            ],
+            [
+              106.69494081231582,
+              10.776829519836514,
+              15.8
+            ],
+            [
+              106.69491630962088,
+              10.776802786789803,
+              15.8
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "77",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "77",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-78",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6949486250616,
+              10.776774203019931,
+              16
+            ],
+            [
+              106.69497312775938,
+              10.776800936066643,
+              16
+            ],
+            [
+              106.6949425131288,
+              10.776828015427656,
+              16
+            ],
+            [
+              106.69491801043372,
+              10.776801282380944,
+              16
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "78",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "78",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-79",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6949486250616,
+              10.776774203019931,
+              16.2
+            ],
+            [
+              106.69497312775938,
+              10.776800936066643,
+              16.2
+            ],
+            [
+              106.69494421394175,
+              10.77682651101879,
+              16.2
+            ],
+            [
+              106.6949197112465,
+              10.776799777972078,
+              16.2
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "79",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "79",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-80",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6949486250616,
+              10.776774203019931,
+              16.4
+            ],
+            [
+              106.69497312775938,
+              10.776800936066643,
+              16.4
+            ],
+            [
+              106.69494591475471,
+              10.776825006609915,
+              16.4
+            ],
+            [
+              106.69492141205924,
+              10.776798273563204,
+              16.4
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "80",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "80",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-81",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6949486250616,
+              10.776774203019931,
+              16.6
+            ],
+            [
+              106.69497312775938,
+              10.776800936066643,
+              16.6
+            ],
+            [
+              106.69494761556759,
+              10.77682350220103,
+              16.6
+            ],
+            [
+              106.69492311287212,
+              10.776796769154318,
+              16.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "81",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "81",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-82",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6949486250616,
+              10.776774203019931,
+              16.8
+            ],
+            [
+              106.69497312775938,
+              10.776800936066643,
+              16.8
+            ],
+            [
+              106.69495782044476,
+              10.776814475747525,
+              16.8
+            ],
+            [
+              106.69493331774838,
+              10.776787742700815,
+              16.8
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "82",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "82",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-83",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6949486250616,
+              10.776774203019931,
+              17
+            ],
+            [
+              106.69497312775938,
+              10.776800936066643,
+              17
+            ],
+            [
+              106.69495952125762,
+              10.776812971338575,
+              17
+            ],
+            [
+              106.69493501856103,
+              10.776786238291864,
+              17
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "83",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "83",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-84",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6949486250616,
+              10.776774203019931,
+              17.2
+            ],
+            [
+              106.69497312775938,
+              10.776800936066643,
+              17.2
+            ],
+            [
+              106.69496122207038,
+              10.776811466929615,
+              17.2
+            ],
+            [
+              106.69493671937359,
+              10.776784733882904,
+              17.2
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "84",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "84",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-85",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6949486250616,
+              10.776774203019931,
+              17.4
+            ],
+            [
+              106.69497312775938,
+              10.776800936066643,
+              17.4
+            ],
+            [
+              106.69496292288315,
+              10.776809962520646,
+              17.4
+            ],
+            [
+              106.69493842018625,
+              10.776783229473937,
+              17.4
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "85",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "85",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-86",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6949486250616,
+              10.776774203019931,
+              17.6
+            ],
+            [
+              106.69497312775938,
+              10.776800936066643,
+              17.6
+            ],
+            [
+              106.6949646236959,
+              10.77680845811167,
+              17.6
+            ],
+            [
+              106.69494012099881,
+              10.776781725064959,
+              17.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "86",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "86",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-87",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6949486250616,
+              10.776774203019931,
+              17.8
+            ],
+            [
+              106.69497312775938,
+              10.776800936066643,
+              17.8
+            ],
+            [
+              106.69496632450867,
+              10.776806953702682,
+              17.8
+            ],
+            [
+              106.69494182181147,
+              10.776780220655972,
+              17.8
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "87",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "87",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-88",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6949486250616,
+              10.776774203019931,
+              18
+            ],
+            [
+              106.69497312775938,
+              10.776800936066643,
+              18
+            ],
+            [
+              106.69496802532132,
+              10.776805449293686,
+              18
+            ],
+            [
+              106.69494352262403,
+              10.776778716246977,
+              18
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "88",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "88",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-89",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6949486250616,
+              10.776774203019931,
+              18.2
+            ],
+            [
+              106.69497312775938,
+              10.776800936066643,
+              18.2
+            ],
+            [
+              106.69496972613399,
+              10.77680394488468,
+              18.2
+            ],
+            [
+              106.69494522343658,
+              10.77677721183797,
+              18.2
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "89",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "89",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "stairs-90",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6949486250616,
+              10.776774203019931,
+              18.4
+            ],
+            [
+              106.69497312775938,
+              10.776800936066643,
+              18.4
+            ],
+            [
+              106.69497142694674,
+              10.776802440475665,
+              18.4
+            ],
+            [
+              106.69494692424902,
+              10.776775707428955,
+              18.4
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "90",
+        "blockName": "Cầu thang",
+        "height": 0.2,
+        "sourceId": "90",
+        "sourceFile": "stairs.geojson",
+        "componentId": "stairs",
+        "componentName": "Front stairs",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "entrance-gates-110",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69557336099415,
+              10.777092921308874,
+              18.6
+            ],
+            [
+              106.69560397564763,
+              10.777065841943518,
+              18.6
+            ],
+            [
+              106.6956042819318,
+              10.777066176106619,
+              18.6
+            ],
+            [
+              106.69557366727818,
+              10.777093255471973,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "110",
+        "blockName": "Cửa",
+        "height": 4,
+        "sourceId": "110",
+        "sourceFile": "entrance-gates.geojson",
+        "componentId": "entrance-gates",
+        "componentName": "Entrance gates",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "entrance-gates-111",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69561418053091,
+              10.777056815487734,
+              18.6
+            ],
+            [
+              106.69564479517719,
+              10.777029736118372,
+              18.6
+            ],
+            [
+              106.69564510146135,
+              10.777030070281473,
+              18.6
+            ],
+            [
+              106.69561448681507,
+              10.777057149650835,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "111",
+        "blockName": "Cửa",
+        "height": 4,
+        "sourceId": "111",
+        "sourceFile": "entrance-gates.geojson",
+        "componentId": "entrance-gates",
+        "componentName": "Entrance gates",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "entrance-gates-112",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69565500005803,
+              10.777020709661251,
+              18.6
+            ],
+            [
+              106.6956856146969,
+              10.776993630287881,
+              18.6
+            ],
+            [
+              106.69568592098105,
+              10.776993964450982,
+              18.6
+            ],
+            [
+              106.69565530634219,
+              10.77702104382435,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "112",
+        "blockName": "Cửa",
+        "height": 4,
+        "sourceId": "112",
+        "sourceFile": "entrance-gates.geojson",
+        "componentId": "entrance-gates",
+        "componentName": "Entrance gates",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "entrance-gates-113",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69555975447963,
+              10.7771049565814,
+              18.6
+            ],
+            [
+              106.69545770558648,
+              10.777195221106426,
+              18.6
+            ],
+            [
+              106.69545801187043,
+              10.777195555269527,
+              18.6
+            ],
+            [
+              106.69556006076368,
+              10.7771052907445,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "113",
+        "blockName": "Cửa",
+        "height": 4,
+        "sourceId": "113",
+        "sourceFile": "entrance-gates.geojson",
+        "componentId": "entrance-gates",
+        "componentName": "Entrance gates",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "entrance-gates-114",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69544409906688,
+              10.777207256378363,
+              18.6
+            ],
+            [
+              106.69541348439373,
+              10.77723433573804,
+              18.6
+            ],
+            [
+              106.69541379067758,
+              10.77723466990114,
+              18.6
+            ],
+            [
+              106.69544440535084,
+              10.777207590541462,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "114",
+        "blockName": "Cửa",
+        "height": 4,
+        "sourceId": "114",
+        "sourceFile": "entrance-gates.geojson",
+        "componentId": "entrance-gates",
+        "componentName": "Entrance gates",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "entrance-gates-115",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69540327950139,
+              10.777243362190598,
+              18.6
+            ],
+            [
+              106.69537266482092,
+              10.77727044154627,
+              18.6
+            ],
+            [
+              106.69537297110476,
+              10.77727077570937,
+              18.6
+            ],
+            [
+              106.69540358578536,
+              10.777243696353699,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "115",
+        "blockName": "Cửa",
+        "height": 4,
+        "sourceId": "115",
+        "sourceFile": "entrance-gates.geojson",
+        "componentId": "entrance-gates",
+        "componentName": "Entrance gates",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    },
+    {
+      "id": "entrance-gates-116",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69536245992623,
+              10.777279467997493,
+              18.6
+            ],
+            [
+              106.69533184523833,
+              10.77730654734916,
+              18.6
+            ],
+            [
+              106.69533215152218,
+              10.77730688151226,
+              18.6
+            ],
+            [
+              106.6953627662101,
+              10.777279802160592,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "116",
+        "blockName": "Cửa",
+        "height": 4,
+        "sourceId": "116",
+        "sourceFile": "entrance-gates.geojson",
+        "componentId": "entrance-gates",
+        "componentName": "Entrance gates",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 access details",
+        "lod3Evidence": "Front stairs and entrance gates are modeled as separate access components."
+      }
+    }
+  ]
+}

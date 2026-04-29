@@ -1,0 +1,1073 @@
+{
+  "type": "FeatureCollection",
+  "lodLevel": "LoD3",
+  "lod3Category": "LoD3 facade trims and bands",
+  "lod3Evidence": "Trim bands, railings, canopy, and horizontal beam details are separated from the main shell.",
+  "timestamp": "2026-04-29T17:07:16.097Z",
+  "features": [
+    {
+      "id": "ground-floor-trim-94",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69576724014863,
+              10.776860923169359,
+              18.4
+            ],
+            [
+              106.69577404340049,
+              10.77685490553317,
+              18.4
+            ],
+            [
+              106.69577710623832,
+              10.776858247164144,
+              18.4
+            ],
+            [
+              106.69577370461228,
+              10.776861255982183,
+              18.4
+            ],
+            [
+              106.69583434881417,
+              10.776927420269876,
+              18.4
+            ],
+            [
+              106.69583094718855,
+              10.776930429087558,
+              18.4
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "94",
+        "blockName": "Viền bao quanh",
+        "height": 10,
+        "sourceId": "94",
+        "sourceFile": "ground-floor-trim.geojson",
+        "componentId": "ground-floor-trim",
+        "componentName": "Ground floor trim",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 facade trims and bands",
+        "lod3Evidence": "Trim bands, railings, canopy, and horizontal beam details are separated from the main shell."
+      }
+    },
+    {
+      "id": "ground-floor-trim-95",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69570598337894,
+              10.776794090567618,
+              18.4
+            ],
+            [
+              106.69571278662926,
+              10.77678807293143,
+              18.4
+            ],
+            [
+              106.69570972379226,
+              10.776784731300424,
+              18.4
+            ],
+            [
+              106.69570632216714,
+              10.776787740118463,
+              18.4
+            ],
+            [
+              106.69564506543956,
+              10.77672090749266,
+              18.4
+            ],
+            [
+              106.69553621342361,
+              10.776817189651505,
+              18.4
+            ],
+            [
+              106.69556684180061,
+              10.776850605959893,
+              18.4
+            ],
+            [
+              106.69547159624939,
+              10.77693485285096,
+              18.4
+            ],
+            [
+              106.69533989425442,
+              10.776791162690614,
+              18.4
+            ],
+            [
+              106.69537391050312,
+              10.776761074508187,
+              18.4
+            ],
+            [
+              106.69521464308215,
+              10.776587309656076,
+              18.4
+            ],
+            [
+              106.69521124132186,
+              10.77659031871174,
+              18.4
+            ],
+            [
+              106.69536744600985,
+              10.776760741835572,
+              18.4
+            ],
+            [
+              106.69533342976126,
+              10.776790830018003,
+              18.4
+            ],
+            [
+              106.69547125749915,
+              10.776941203382075,
+              18.4
+            ],
+            [
+              106.69557330627558,
+              10.776850938823658,
+              18.4
+            ],
+            [
+              106.69554267790201,
+              10.77681752251226,
+              18.4
+            ],
+            [
+              106.6956447266365,
+              10.776727257953844,
+              18.4
+            ],
+            [
+              106.69570598337894,
+              10.776794090567618,
+              18.4
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "95",
+        "blockName": "Viền bao quanh",
+        "height": 10,
+        "sourceId": "95",
+        "sourceFile": "ground-floor-trim.geojson",
+        "componentId": "ground-floor-trim",
+        "componentName": "Ground floor trim",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 facade trims and bands",
+        "lod3Evidence": "Trim bands, railings, canopy, and horizontal beam details are separated from the main shell."
+      }
+    },
+    {
+      "id": "ground-floor-trim-96",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69518673864115,
+              10.776563585665027,
+              18.4
+            ],
+            [
+              106.69519014026373,
+              10.776560576846952,
+              18.4
+            ],
+            [
+              106.69518401459439,
+              10.776553893584913,
+              18.4
+            ],
+            [
+              106.69513299024881,
+              10.776599025851601,
+              18.4
+            ],
+            [
+              106.69510236190081,
+              10.776565609540203,
+              18.4
+            ],
+            [
+              106.69495949368927,
+              10.776691979865895,
+              18.4
+            ],
+            [
+              106.69499012205348,
+              10.776725396174283,
+              18.4
+            ],
+            [
+              106.69493909759636,
+              10.776770528388896,
+              18.4
+            ],
+            [
+              106.69494522327027,
+              10.776777211650817,
+              18.4
+            ],
+            [
+              106.69494862489529,
+              10.776774202832742,
+              18.4
+            ],
+            [
+              106.69494556222469,
+              10.776770861388956,
+              18.4
+            ],
+            [
+              106.69518367580639,
+              10.776560244034055,
+              18.4
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "96",
+        "blockName": "Viền bao quanh",
+        "height": 10,
+        "sourceId": "96",
+        "sourceFile": "ground-floor-trim.geojson",
+        "componentId": "ground-floor-trim",
+        "componentName": "Ground floor trim",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 facade trims and bands",
+        "lod3Evidence": "Trim bands, railings, canopy, and horizontal beam details are separated from the main shell."
+      }
+    },
+    {
+      "id": "ground-floor-trim-97",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69497312775938,
+              10.776800936066643,
+              18.4
+            ],
+            [
+              106.69496972613399,
+              10.77680394488468,
+              18.4
+            ],
+            [
+              106.69512899376147,
+              10.776977709655469,
+              18.4
+            ],
+            [
+              106.69516301003124,
+              10.776947621473038,
+              18.4
+            ],
+            [
+              106.69529471215748,
+              10.777091311577777,
+              18.4
+            ],
+            [
+              106.69519946653013,
+              10.777175558468842,
+              18.4
+            ],
+            [
+              106.69516883812351,
+              10.777142142157446,
+              18.4
+            ],
+            [
+              106.69505998595517,
+              10.77723842431629,
+              18.4
+            ],
+            [
+              106.69512124280162,
+              10.777305256930061,
+              18.4
+            ],
+            [
+              106.6951178411706,
+              10.777308265748099,
+              18.4
+            ],
+            [
+              106.695120904013,
+              10.777311607379074,
+              18.4
+            ],
+            [
+              106.69512770710782,
+              10.777305590007009,
+              18.4
+            ],
+            [
+              106.69506645030208,
+              10.777238757357148,
+              18.4
+            ],
+            [
+              106.69516849917937,
+              10.777148492798734,
+              18.4
+            ],
+            [
+              106.69519912759006,
+              10.777181909107123,
+              18.4
+            ],
+            [
+              106.69530117644813,
+              10.777091644548708,
+              18.4
+            ],
+            [
+              106.69516334871022,
+              10.776941271123736,
+              18.4
+            ],
+            [
+              106.69512933243782,
+              10.776971359302454,
+              18.4
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "97",
+        "blockName": "Viền bao quanh",
+        "height": 10,
+        "sourceId": "97",
+        "sourceFile": "ground-floor-trim.geojson",
+        "componentId": "ground-floor-trim",
+        "componentName": "Ground floor trim",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 facade trims and bands",
+        "lod3Evidence": "Trim bands, railings, canopy, and horizontal beam details are separated from the main shell."
+      }
+    },
+    {
+      "id": "ground-floor-trim-98",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69518896394071,
+              10.777372422644845,
+              18.4
+            ],
+            [
+              106.69518216067706,
+              10.777378440280884,
+              18.4
+            ],
+            [
+              106.69518522352016,
+              10.777381781911856,
+              18.4
+            ],
+            [
+              106.695188625152,
+              10.77737877309378,
+              18.4
+            ],
+            [
+              106.69524926945812,
+              10.777444937381475,
+              18.4
+            ],
+            [
+              106.69525267109067,
+              10.777441928563398,
+              18.4
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "98",
+        "blockName": "Viền bao quanh",
+        "height": 10,
+        "sourceId": "98",
+        "sourceFile": "ground-floor-trim.geojson",
+        "componentId": "ground-floor-trim",
+        "componentName": "Ground floor trim",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 facade trims and bands",
+        "lod3Evidence": "Trim bands, railings, canopy, and horizontal beam details are separated from the main shell."
+      }
+    },
+    {
+      "id": "ground-floor-railing-100",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69559548534998,
+              10.777133859705078,
+              18.7
+            ],
+            [
+              106.69572644801714,
+              10.777018020180229,
+              18.7
+            ],
+            [
+              106.6957252228814,
+              10.777016683527831,
+              18.7
+            ],
+            [
+              106.69559426016247,
+              10.777132522995545,
+              18.7
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "100",
+        "blockName": "Lan can",
+        "height": 0.5,
+        "sourceId": "100",
+        "sourceFile": "ground-floor-railing.geojson",
+        "componentId": "ground-floor-railing",
+        "componentName": "Ground floor railing",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 facade trims and bands",
+        "lod3Evidence": "Trim bands, railings, canopy, and horizontal beam details are separated from the main shell."
+      }
+    },
+    {
+      "id": "ground-floor-railing-101",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69548323246605,
+              10.777233151142784,
+              18.7
+            ],
+            [
+              106.69535226965101,
+              10.777348990608358,
+              18.7
+            ],
+            [
+              106.69535104451386,
+              10.77734765395596,
+              18.7
+            ],
+            [
+              106.69548200727597,
+              10.777231814433254,
+              18.7
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "101",
+        "blockName": "Lan can",
+        "height": 0.5,
+        "sourceId": "101",
+        "sourceFile": "ground-floor-railing.geojson",
+        "componentId": "ground-floor-railing",
+        "componentName": "Ground floor railing",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 facade trims and bands",
+        "lod3Evidence": "Trim bands, railings, canopy, and horizontal beam details are separated from the main shell."
+      }
+    },
+    {
+      "id": "ground-floor-railing-120",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69557208112845,
+              10.776849602168536,
+              18.7
+            ],
+            [
+              106.69547139300238,
+              10.776938663198855,
+              18.7
+            ],
+            [
+              106.69533601553654,
+              10.7767909631385,
+              18.7
+            ],
+            [
+              106.69537003178858,
+              10.776760874959784,
+              18.7
+            ],
+            [
+              106.695212601971,
+              10.776589115184514,
+              18.7
+            ],
+            [
+              106.69521124132186,
+              10.77659031871174,
+              18.7
+            ],
+            [
+              106.69536744601332,
+              10.776760741839285,
+              18.7
+            ],
+            [
+              106.69533342976126,
+              10.776790830018003,
+              18.7
+            ],
+            [
+              106.69547125749915,
+              10.776941203382075,
+              18.7
+            ],
+            [
+              106.69557330627558,
+              10.776850938823658,
+              18.7
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "120",
+        "blockName": "Lan can",
+        "height": 0.5,
+        "sourceId": "120",
+        "sourceFile": "ground-floor-railing.geojson",
+        "componentId": "ground-floor-railing",
+        "componentName": "Ground floor railing",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 facade trims and bands",
+        "lod3Evidence": "Trim bands, railings, canopy, and horizontal beam details are separated from the main shell."
+      }
+    },
+    {
+      "id": "ground-floor-railing-121",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69512919691698,
+              10.776973899482392,
+              18.7
+            ],
+            [
+              106.69516321318969,
+              10.776943811303676,
+              18.7
+            ],
+            [
+              106.69529859065779,
+              10.777091511422784,
+              18.7
+            ],
+            [
+              106.69519790245079,
+              10.777180572453096,
+              18.7
+            ],
+            [
+              106.69519912759006,
+              10.777181909107123,
+              18.7
+            ],
+            [
+              106.69530117644813,
+              10.777091644548708,
+              18.7
+            ],
+            [
+              106.69516334871022,
+              10.776941271123736,
+              18.7
+            ],
+            [
+              106.69512933243782,
+              10.776971359302454,
+              18.7
+            ],
+            [
+              106.69497312775938,
+              10.776800936066643,
+              18.7
+            ],
+            [
+              106.69497176710925,
+              10.776802139593864,
+              18.7
+            ],
+            [
+              106.69512919703138,
+              10.77697389938699,
+              18.7
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "121",
+        "blockName": "Lan can",
+        "height": 0.5,
+        "sourceId": "121",
+        "sourceFile": "ground-floor-railing.geojson",
+        "componentId": "ground-floor-railing",
+        "componentName": "Ground floor railing",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 facade trims and bands",
+        "lod3Evidence": "Trim bands, railings, canopy, and horizontal beam details are separated from the main shell."
+      }
+    },
+    {
+      "id": "ground-floor-railing-122",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69518673864115,
+              10.776563585665027,
+              18.7
+            ],
+            [
+              106.69518809929018,
+              10.776562382137802,
+              18.7
+            ],
+            [
+              106.69518381132163,
+              10.776557703854388,
+              18.7
+            ],
+            [
+              106.69513278697545,
+              10.776602836121079,
+              18.7
+            ],
+            [
+              106.69510215862714,
+              10.77656941980968,
+              18.7
+            ],
+            [
+              106.69496337236441,
+              10.776692179555548,
+              18.7
+            ],
+            [
+              106.6949940007287,
+              10.776725595863937,
+              18.7
+            ],
+            [
+              106.69494297635403,
+              10.776770728130623,
+              18.7
+            ],
+            [
+              106.69494726432575,
+              10.77677540641398,
+              18.7
+            ],
+            [
+              106.69494862497578,
+              10.776774202886752,
+              18.7
+            ],
+            [
+              106.69494556222469,
+              10.776770861388956,
+              18.7
+            ],
+            [
+              106.69499658659173,
+              10.776725729113922,
+              18.7
+            ],
+            [
+              106.69496595818336,
+              10.776692312720915,
+              18.7
+            ],
+            [
+              106.69510202314692,
+              10.776571960028296,
+              18.7
+            ],
+            [
+              106.69513265149553,
+              10.776605376339694,
+              18.7
+            ],
+            [
+              106.69518367580639,
+              10.776560244034055,
+              18.7
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "122",
+        "blockName": "Lan can",
+        "height": 0.5,
+        "sourceId": "122",
+        "sourceFile": "ground-floor-railing.geojson",
+        "componentId": "ground-floor-railing",
+        "componentName": "Ground floor railing",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 facade trims and bands",
+        "lod3Evidence": "Trim bands, railings, canopy, and horizontal beam details are separated from the main shell."
+      }
+    },
+    {
+      "id": "ground-floor-facade-trim-118",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69525008387654,
+              10.777441794462263,
+              23.1
+            ],
+            [
+              106.69583108271742,
+              10.776927888879166,
+              23.1
+            ],
+            [
+              106.69564486213768,
+              10.7767247177706,
+              23.1
+            ],
+            [
+              106.69554009210454,
+              10.776817389384364,
+              23.1
+            ],
+            [
+              106.6955707204781,
+              10.776850805695764,
+              23.1
+            ],
+            [
+              106.69547139300238,
+              10.776938663198855,
+              23.1
+            ],
+            [
+              106.69533601553654,
+              10.7767909631385,
+              23.1
+            ],
+            [
+              106.69537003178858,
+              10.776760874959784,
+              23.1
+            ],
+            [
+              106.69518381131218,
+              10.776557703851216,
+              23.1
+            ],
+            [
+              106.69494297643443,
+              10.776770728262651,
+              23.1
+            ],
+            [
+              106.69512919691698,
+              10.776973899482392,
+              23.1
+            ],
+            [
+              106.69516321318969,
+              10.776943811303676,
+              23.1
+            ],
+            [
+              106.69529859065779,
+              10.777091511422784,
+              23.1
+            ],
+            [
+              106.69519926310265,
+              10.777179368925873,
+              23.1
+            ],
+            [
+              106.69516863469227,
+              10.777145952617483,
+              23.1
+            ],
+            [
+              106.69506386451243,
+              10.777238624231247,
+              23.1
+            ],
+            [
+              106.69524886014781,
+              10.777440458797868,
+              23.1
+            ],
+            [
+              106.69525022080083,
+              10.777439255270648,
+              23.1
+            ],
+            [
+              106.69506645030208,
+              10.777238757357148,
+              23.1
+            ],
+            [
+              106.69516849917937,
+              10.777148492798734,
+              23.1
+            ],
+            [
+              106.69519912759006,
+              10.777181909107123,
+              23.1
+            ],
+            [
+              106.69530117644813,
+              10.777091644548708,
+              23.1
+            ],
+            [
+              106.69516334871022,
+              10.776941271123736,
+              23.1
+            ],
+            [
+              106.69512933243782,
+              10.776971359302454,
+              23.1
+            ],
+            [
+              106.69494556222469,
+              10.776770861388956,
+              23.1
+            ],
+            [
+              106.69518367580639,
+              10.776560244034055,
+              23.1
+            ],
+            [
+              106.69536744601332,
+              10.776760741839285,
+              23.1
+            ],
+            [
+              106.69533342976126,
+              10.776790830018003,
+              23.1
+            ],
+            [
+              106.69547125749915,
+              10.776941203382075,
+              23.1
+            ],
+            [
+              106.69557330627558,
+              10.776850938823658,
+              23.1
+            ],
+            [
+              106.69554267790201,
+              10.77681752251226,
+              23.1
+            ],
+            [
+              106.6956447266365,
+              10.776727257953844,
+              23.1
+            ],
+            [
+              106.69582849694541,
+              10.776927755759074,
+              23.1
+            ],
+            [
+              106.69524885876005,
+              10.777440457817477,
+              23.1
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "118",
+        "blockName": "Viền bao quanh",
+        "height": 0.5,
+        "sourceId": "118",
+        "sourceFile": "ground-floor-facade-trim.geojson",
+        "componentId": "ground-floor-facade-trim",
+        "componentName": "Facade trim",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 facade trims and bands",
+        "lod3Evidence": "Trim bands, railings, canopy, and horizontal beam details are separated from the main shell."
+      }
+    },
+    {
+      "id": "canopy-119",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69559038290632,
+              10.777138372932203,
+              23.1
+            ],
+            [
+              106.69562101131599,
+              10.777171789240592,
+              23.1
+            ],
+            [
+              106.69551896240013,
+              10.777262053765622,
+              23.1
+            ],
+            [
+              106.69548833398466,
+              10.777228637454222,
+              23.1
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "119",
+        "blockName": "Mái hiên",
+        "height": 0.5,
+        "sourceId": "119",
+        "sourceFile": "canopy.geojson",
+        "componentId": "canopy",
+        "componentName": "Canopy",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 facade trims and bands",
+        "lod3Evidence": "Trim bands, railings, canopy, and horizontal beam details are separated from the main shell."
+      }
+    },
+    {
+      "id": "horizontal-beams-392",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69525022080083,
+              10.777439255270648,
+              33.2
+            ],
+            [
+              106.69506645030208,
+              10.777238757357148,
+              33.2
+            ],
+            [
+              106.69516849917937,
+              10.777148492798734,
+              33.2
+            ],
+            [
+              106.69519912759006,
+              10.777181909107123,
+              33.2
+            ],
+            [
+              106.69557330627558,
+              10.776850938823658,
+              33.2
+            ],
+            [
+              106.69554267790201,
+              10.77681752251226,
+              33.2
+            ],
+            [
+              106.6956447266365,
+              10.776727257953844,
+              33.2
+            ],
+            [
+              106.69582849694541,
+              10.776927755759074,
+              33.2
+            ],
+            [
+              106.69525022080083,
+              10.777439255270648,
+              33.2
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "392",
+        "blockName": "Ban công cửa sổ",
+        "height": 0.5,
+        "sourceId": "392",
+        "sourceFile": "horizontal-beams.geojson",
+        "componentId": "horizontal-beams",
+        "componentName": "Horizontal beams",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 facade trims and bands",
+        "lod3Evidence": "Trim bands, railings, canopy, and horizontal beam details are separated from the main shell."
+      }
+    }
+  ]
+}

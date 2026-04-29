@@ -1,0 +1,168 @@
+{
+  "type": "FeatureCollection",
+  "lodLevel": "LoD3",
+  "lod3Category": "LoD3 skylights",
+  "lod3Evidence": "Skylight platform, well, and railing are represented as distinct roof elements.",
+  "timestamp": "2026-04-29T17:07:16.113Z",
+  "features": [
+    {
+      "id": "skylight-platform-422",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69504422309035,
+              10.776744101328779,
+              33.6
+            ],
+            [
+              106.69514627177965,
+              10.776653836748105,
+              33.6
+            ],
+            [
+              106.69523815688108,
+              10.776754085664253,
+              33.6
+            ],
+            [
+              106.69513610810688,
+              10.77684435018928,
+              33.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "422",
+        "blockName": "Khu giếng trời",
+        "height": 0.2,
+        "sourceId": "422",
+        "sourceFile": "skylight-platform.geojson",
+        "componentId": "skylight-platform",
+        "componentName": "Skylight platform",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 skylights",
+        "lod3Evidence": "Skylight platform, well, and railing are represented as distinct roof elements."
+      }
+    },
+    {
+      "id": "skylight-well-423",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69507654537561,
+              10.776745765388888,
+              33.6
+            ],
+            [
+              106.69513780212527,
+              10.776812597999653,
+              33.6
+            ],
+            [
+              106.6952058345558,
+              10.776752421612539,
+              33.6
+            ],
+            [
+              106.69514457781835,
+              10.776685589001778,
+              33.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "423",
+        "blockName": "Giếng trời",
+        "height": 0.3,
+        "sourceId": "423",
+        "sourceFile": "skylight-well.geojson",
+        "componentId": "skylight-well",
+        "componentName": "Skylight well",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 skylights",
+        "lod3Evidence": "Skylight platform, well, and railing are represented as distinct roof elements."
+      }
+    },
+    {
+      "id": "skylight-railing-424",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69513488308394,
+              10.776843013592892,
+              33.6
+            ],
+            [
+              106.69504422309035,
+              10.776744101328779,
+              33.6
+            ],
+            [
+              106.69514627177965,
+              10.776653836748105,
+              33.6
+            ],
+            [
+              106.69523815688108,
+              10.776754085664253,
+              33.6
+            ],
+            [
+              106.69513610810688,
+              10.77684435018928,
+              33.6
+            ],
+            [
+              106.69513488297187,
+              10.776843013536883,
+              33.6
+            ],
+            [
+              106.69523557106547,
+              10.776753952506134,
+              33.6
+            ],
+            [
+              106.69514613626247,
+              10.776656376868424,
+              33.6
+            ],
+            [
+              106.69504680882196,
+              10.776744234339883,
+              33.6
+            ],
+            [
+              106.69513624368014,
+              10.776841809951954,
+              33.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "424",
+        "blockName": "Lan can",
+        "height": 0.5,
+        "sourceId": "424",
+        "sourceFile": "skylight-railing.geojson",
+        "componentId": "skylight-railing",
+        "componentName": "Skylight railing",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 skylights",
+        "lod3Evidence": "Skylight platform, well, and railing are represented as distinct roof elements."
+      }
+    }
+  ]
+}

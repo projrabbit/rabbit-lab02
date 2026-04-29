@@ -1,0 +1,783 @@
+{
+  "type": "FeatureCollection",
+  "lodLevel": "LoD3",
+  "lod3Category": "LoD3 doors",
+  "lod3Evidence": "Main doors, upper door blocks, and balcony glass doors are represented separately.",
+  "timestamp": "2026-04-29T17:07:16.104Z",
+  "features": [
+    {
+      "id": "main-door-432",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69570598337894,
+              10.776794090567618,
+              18.6
+            ],
+            [
+              106.69576724014863,
+              10.776860923169359,
+              18.6
+            ],
+            [
+              106.69576792047386,
+              10.77686032140575,
+              18.6
+            ],
+            [
+              106.69570666373153,
+              10.776793488779948,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "432",
+        "blockName": "Cửa ra vào",
+        "height": 5,
+        "sourceId": "432",
+        "sourceFile": "main-door.geojson",
+        "componentId": "main-door",
+        "componentName": "Main door",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 doors",
+        "lod3Evidence": "Main doors, upper door blocks, and balcony glass doors are represented separately."
+      }
+    },
+    {
+      "id": "main-door-433",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69512770610571,
+              10.777305589101331,
+              18.6
+            ],
+            [
+              106.69512702577946,
+              10.777306190864941,
+              18.6
+            ],
+            [
+              106.69518828263953,
+              10.777373023478715,
+              18.6
+            ],
+            [
+              106.6951889629659,
+              10.777372421715103,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "433",
+        "blockName": "Cửa ra vào",
+        "height": 5,
+        "sourceId": "433",
+        "sourceFile": "main-door.geojson",
+        "componentId": "main-door",
+        "componentName": "Main door",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 doors",
+        "lod3Evidence": "Main doors, upper door blocks, and balcony glass doors are represented separately."
+      }
+    },
+    {
+      "id": "main-door-437",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69542567049083,
+              10.776957323490041,
+              18.6
+            ],
+            [
+              106.69540116778387,
+              10.776930590440204,
+              18.6
+            ],
+            [
+              106.69529809843645,
+              10.777021757610424,
+              18.6
+            ],
+            [
+              106.69532260115085,
+              10.777048490660265,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "437",
+        "blockName": "Cửa ra vào",
+        "height": 5,
+        "sourceId": "437",
+        "sourceFile": "main-door.geojson",
+        "componentId": "main-door",
+        "componentName": "Main door",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 doors",
+        "lod3Evidence": "Main doors, upper door blocks, and balcony glass doors are represented separately."
+      }
+    },
+    {
+      "id": "main-door-438",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69538125933767,
+              10.77690886983579,
+              18.6
+            ],
+            [
+              106.69535675663853,
+              10.776882136782461,
+              18.6
+            ],
+            [
+              106.69525368727768,
+              10.776973303952683,
+              18.6
+            ],
+            [
+              106.69527818998412,
+              10.777000037006012,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "438",
+        "blockName": "Cửa ra vào",
+        "height": 5,
+        "sourceId": "438",
+        "sourceFile": "main-door.geojson",
+        "componentId": "main-door",
+        "componentName": "Main door",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 doors",
+        "lod3Evidence": "Main doors, upper door blocks, and balcony glass doors are represented separately."
+      }
+    },
+    {
+      "id": "main-door-439",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69533684819874,
+              10.776860416175214,
+              18.6
+            ],
+            [
+              106.69531234550743,
+              10.776833683118396,
+              18.6
+            ],
+            [
+              106.69520927613317,
+              10.77692485028862,
+              18.6
+            ],
+            [
+              106.69523377883178,
+              10.776951583345438,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "439",
+        "blockName": "Cửa ra vào",
+        "height": 5,
+        "sourceId": "439",
+        "sourceFile": "main-door.geojson",
+        "componentId": "main-door",
+        "componentName": "Main door",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 doors",
+        "lod3Evidence": "Main doors, upper door blocks, and balcony glass doors are represented separately."
+      }
+    },
+    {
+      "id": "main-door-440",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69512012890418,
+              10.776894789119014,
+              18.6
+            ],
+            [
+              106.69509562620232,
+              10.776868056069175,
+              18.6
+            ],
+            [
+              106.69526672793425,
+              10.776716712474922,
+              18.6
+            ],
+            [
+              106.69529123062493,
+              10.7767434455238,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "440",
+        "blockName": "Cửa ra vào",
+        "height": 5,
+        "sourceId": "440",
+        "sourceFile": "main-door.geojson",
+        "componentId": "main-door",
+        "componentName": "Main door",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 doors",
+        "lod3Evidence": "Main doors, upper door blocks, and balcony glass doors are represented separately."
+      }
+    },
+    {
+      "id": "main-door-441",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69508337485294,
+              10.776854689543534,
+              18.6
+            ],
+            [
+              106.69505887215759,
+              10.776827956490806,
+              18.6
+            ],
+            [
+              106.69522997390642,
+              10.776676612897997,
+              18.6
+            ],
+            [
+              106.69525447659058,
+              10.776703345949763,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "441",
+        "blockName": "Cửa ra vào",
+        "height": 5,
+        "sourceId": "441",
+        "sourceFile": "main-door.geojson",
+        "componentId": "main-door",
+        "componentName": "Main door",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 doors",
+        "lod3Evidence": "Main doors, upper door blocks, and balcony glass doors are represented separately."
+      }
+    },
+    {
+      "id": "main-door-442",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6950466208115,
+              10.77681458996372,
+              18.6
+            ],
+            [
+              106.69502211812274,
+              10.776787856908104,
+              18.6
+            ],
+            [
+              106.69519321988837,
+              10.776636513316742,
+              18.6
+            ],
+            [
+              106.69521772256591,
+              10.776663246371392,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "442",
+        "blockName": "Cửa ra vào",
+        "height": 5,
+        "sourceId": "442",
+        "sourceFile": "main-door.geojson",
+        "componentId": "main-door",
+        "componentName": "Main door",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 doors",
+        "lod3Evidence": "Main doors, upper door blocks, and balcony glass doors are represented separately."
+      }
+    },
+    {
+      "id": "main-door-443",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6950269087831,
+              10.776758811243921,
+              18.6
+            ],
+            [
+              106.69506092502651,
+              10.776728723059636,
+              18.6
+            ],
+            [
+              106.69506123131016,
+              10.776729057222733,
+              18.6
+            ],
+            [
+              106.69502721506686,
+              10.776759145407018,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "443",
+        "blockName": "Cửa ra vào",
+        "height": 5,
+        "sourceId": "443",
+        "sourceFile": "main-door.geojson",
+        "componentId": "main-door",
+        "componentName": "Main door",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 doors",
+        "lod3Evidence": "Main doors, upper door blocks, and balcony glass doors are represented separately."
+      }
+    },
+    {
+      "id": "main-door-444",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69507793314555,
+              10.776713678966104,
+              18.6
+            ],
+            [
+              106.69511194937868,
+              10.776683590776255,
+              18.6
+            ],
+            [
+              106.69511225566245,
+              10.776683924939354,
+              18.6
+            ],
+            [
+              106.69507823942932,
+              10.776714013129203,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "444",
+        "blockName": "Cửa ra vào",
+        "height": 5,
+        "sourceId": "444",
+        "sourceFile": "main-door.geojson",
+        "componentId": "main-door",
+        "componentName": "Main door",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 doors",
+        "lod3Evidence": "Main doors, upper door blocks, and balcony glass doors are represented separately."
+      }
+    },
+    {
+      "id": "main-door-445",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69512895749267,
+              10.776668546679938,
+              18.6
+            ],
+            [
+              106.6951629737156,
+              10.776638458484527,
+              18.6
+            ],
+            [
+              106.69516327999936,
+              10.776638792647626,
+              18.6
+            ],
+            [
+              106.69512926377641,
+              10.776668880843038,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "445",
+        "blockName": "Cửa ra vào",
+        "height": 5,
+        "sourceId": "445",
+        "sourceFile": "main-door.geojson",
+        "componentId": "main-door",
+        "componentName": "Main door",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 doors",
+        "lod3Evidence": "Main doors, upper door blocks, and balcony glass doors are represented separately."
+      }
+    },
+    {
+      "id": "main-door-446",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69524676415666,
+              10.777200281321758,
+              18.6
+            ],
+            [
+              106.69528078044985,
+              10.777170193137472,
+              18.6
+            ],
+            [
+              106.6952804741656,
+              10.777169858974373,
+              18.6
+            ],
+            [
+              106.69524645787241,
+              10.777199947158659,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "446",
+        "blockName": "Cửa ra vào",
+        "height": 5,
+        "sourceId": "446",
+        "sourceFile": "main-door.geojson",
+        "componentId": "main-door",
+        "componentName": "Main door",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 doors",
+        "lod3Evidence": "Main doors, upper door blocks, and balcony glass doors are represented separately."
+      }
+    },
+    {
+      "id": "main-door-447",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69530459185098,
+              10.777149131406267,
+              18.6
+            ],
+            [
+              106.69533860813266,
+              10.777119043215677,
+              18.6
+            ],
+            [
+              106.6953383018484,
+              10.777118709052578,
+              18.6
+            ],
+            [
+              106.69530428556672,
+              10.77714879724317,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "447",
+        "blockName": "Cửa ra vào",
+        "height": 5,
+        "sourceId": "447",
+        "sourceFile": "main-door.geojson",
+        "componentId": "main-door",
+        "componentName": "Main door",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 doors",
+        "lod3Evidence": "Main doors, upper door blocks, and balcony glass doors are represented separately."
+      }
+    },
+    {
+      "id": "main-door-448",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69558692679712,
+              10.776899399231388,
+              18.6
+            ],
+            [
+              106.69555291052777,
+              10.776929487408252,
+              18.6
+            ],
+            [
+              106.69555260424403,
+              10.776929153245153,
+              18.6
+            ],
+            [
+              106.69558662051338,
+              10.77689906506829,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "448",
+        "blockName": "Cửa ra vào",
+        "height": 5,
+        "sourceId": "448",
+        "sourceFile": "main-door.geojson",
+        "componentId": "main-door",
+        "componentName": "Main door",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 doors",
+        "lod3Evidence": "Main doors, upper door blocks, and balcony glass doors are represented separately."
+      }
+    },
+    {
+      "id": "main-door-449",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69552909913519,
+              10.77695054912985,
+              18.6
+            ],
+            [
+              106.69549508285421,
+              10.776980637300408,
+              18.6
+            ],
+            [
+              106.69549477657046,
+              10.77698030313731,
+              18.6
+            ],
+            [
+              106.69552879285142,
+              10.77695021496675,
+              18.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "449",
+        "blockName": "Cửa ra vào",
+        "height": 5,
+        "sourceId": "449",
+        "sourceFile": "main-door.geojson",
+        "componentId": "main-door",
+        "componentName": "Main door",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 doors",
+        "lod3Evidence": "Main doors, upper door blocks, and balcony glass doors are represented separately."
+      }
+    },
+    {
+      "id": "main-door-upper-block-434",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69512770610571,
+              10.777305589101331,
+              23.1
+            ],
+            [
+              106.69512430447469,
+              10.777308597919369,
+              23.1
+            ],
+            [
+              106.69518556133548,
+              10.77737543053314,
+              23.1
+            ],
+            [
+              106.6951889629659,
+              10.777372421715103,
+              23.1
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "434",
+        "blockName": "Mái bên hông",
+        "height": 1.5,
+        "sourceId": "434",
+        "sourceFile": "main-door-upper-block.geojson",
+        "componentId": "main-door-upper-block",
+        "componentName": "Main door upper block",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 doors",
+        "lod3Evidence": "Main doors, upper door blocks, and balcony glass doors are represented separately."
+      }
+    },
+    {
+      "id": "main-door-upper-block-435",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69570598337894,
+              10.776794090567618,
+              23.1
+            ],
+            [
+              106.69570938500414,
+              10.776791081749542,
+              23.1
+            ],
+            [
+              106.69577064175961,
+              10.776857914363315,
+              23.1
+            ],
+            [
+              106.69576724013498,
+              10.776860923181392,
+              23.1
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "435",
+        "blockName": "Mái bên hông",
+        "height": 1.5,
+        "sourceId": "435",
+        "sourceFile": "main-door-upper-block.geojson",
+        "componentId": "main-door-upper-block",
+        "componentName": "Main door upper block",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 doors",
+        "lod3Evidence": "Main doors, upper door blocks, and balcony glass doors are represented separately."
+      }
+    },
+    {
+      "id": "front-balcony-glass-door-436",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69503060282791,
+              10.776695640925928,
+              24.6
+            ],
+            [
+              106.6950986352798,
+              10.776635464538813,
+              24.6
+            ],
+            [
+              106.69509832899594,
+              10.776635130375713,
+              24.6
+            ],
+            [
+              106.69503029654405,
+              10.776695306762829,
+              24.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "436",
+        "blockName": "Cửa kính",
+        "height": 5,
+        "sourceId": "436",
+        "sourceFile": "front-balcony-glass-door.geojson",
+        "componentId": "front-balcony-glass-door",
+        "componentName": "Balcony glass door",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 doors",
+        "lod3Evidence": "Main doors, upper door blocks, and balcony glass doors are represented separately."
+      }
+    }
+  ]
+}

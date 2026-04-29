@@ -1,0 +1,436 @@
+{
+  "type": "FeatureCollection",
+  "lodLevel": "LoD3",
+  "lod3Category": "LoD3 roof details",
+  "lod3Evidence": "Terrace roof panels, rear terrace roof panels, rear wing roof, and roof detail extras are modeled separately.",
+  "timestamp": "2026-04-29T17:07:16.112Z",
+  "features": [
+    {
+      "id": "terrace-roof-panel-399",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6957556805866,
+              10.776895351370873,
+              37.7
+            ],
+            [
+              106.69568217249054,
+              10.776815152218468,
+              37.7
+            ],
+            [
+              106.69560053345953,
+              10.776887363841164,
+              37.7
+            ],
+            [
+              106.69567404153379,
+              10.776967562993569,
+              37.7
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "399",
+        "blockName": "Mái sân thượng",
+        "height": 0.5,
+        "sourceId": "399",
+        "sourceFile": "terrace-roof-panel.geojson",
+        "componentId": "terrace-roof-panel",
+        "componentName": "Terrace roof panel",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 roof details",
+        "lod3Evidence": "Terrace roof panels, rear terrace roof panels, rear wing roof, and roof detail extras are modeled separately."
+      }
+    },
+    {
+      "id": "terrace-roof-panel-400",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6952331573352,
+              10.777212315878863,
+              37.7
+            ],
+            [
+              106.69515151808872,
+              10.777284527384033,
+              37.7
+            ],
+            [
+              106.69522502631902,
+              10.777364726519117,
+              37.7
+            ],
+            [
+              106.69530666545997,
+              10.777292514875057,
+              37.7
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "400",
+        "blockName": "Mái sân thượng",
+        "height": 0.5,
+        "sourceId": "400",
+        "sourceFile": "terrace-roof-panel.geojson",
+        "componentId": "terrace-roof-panel",
+        "componentName": "Terrace roof panel",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 roof details",
+        "lod3Evidence": "Terrace roof panels, rear terrace roof panels, rear wing roof, and roof detail extras are modeled separately."
+      }
+    },
+    {
+      "id": "terrace-roof-mid-panel-404",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69557914849041,
+              10.777105955364192,
+              38.7
+            ],
+            [
+              106.69544438358321,
+              10.776958923571545,
+              38.7
+            ],
+            [
+              106.69532192496348,
+              10.777067240997573,
+              38.7
+            ],
+            [
+              106.69545668981083,
+              10.77721427279022,
+              38.7
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "404",
+        "blockName": "Mái giữa",
+        "height": 0.75,
+        "sourceId": "404",
+        "sourceFile": "terrace-roof-mid-panel.geojson",
+        "componentId": "terrace-roof-mid-panel",
+        "componentName": "Terrace roof center panel",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 roof details",
+        "lod3Evidence": "Terrace roof panels, rear terrace roof panels, rear wing roof, and roof detail extras are modeled separately."
+      }
+    },
+    {
+      "id": "rear-terrace-roof-panel-420",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69517451490175,
+              10.776671210522293,
+              36.1
+            ],
+            [
+              106.69522894084638,
+              10.776623069397763,
+              36.1
+            ],
+            [
+              106.69527794629563,
+              10.776676535489745,
+              36.1
+            ],
+            [
+              106.69522352034133,
+              10.776724676614275,
+              36.1
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "420",
+        "blockName": "Mái sân thượng tòa sau",
+        "height": 0.5,
+        "sourceId": "420",
+        "sourceFile": "rear-terrace-roof-panel.geojson",
+        "componentId": "rear-terrace-roof-panel",
+        "componentName": "Rear terrace roof panel",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 roof details",
+        "lod3Evidence": "Terrace roof panels, rear terrace roof panels, rear wing roof, and roof detail extras are modeled separately."
+      }
+    },
+    {
+      "id": "rear-terrace-roof-panel-421",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69500443371271,
+              10.776821651475244,
+              36.1
+            ],
+            [
+              106.69505885971171,
+              10.776773510380389,
+              36.1
+            ],
+            [
+              106.69510786513071,
+              10.776826976472373,
+              36.1
+            ],
+            [
+              106.69505343912196,
+              10.776875117567226,
+              36.1
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "421",
+        "blockName": "Mái sân thượng tòa sau",
+        "height": 0.5,
+        "sourceId": "421",
+        "sourceFile": "rear-terrace-roof-panel.geojson",
+        "componentId": "rear-terrace-roof-panel",
+        "componentName": "Rear terrace roof panel",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 roof details",
+        "lod3Evidence": "Terrace roof panels, rear terrace roof panels, rear wing roof, and roof detail extras are modeled separately."
+      }
+    },
+    {
+      "id": "rear-wing-roof-570",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69510236190081,
+              10.776565609540203,
+              23.1
+            ],
+            [
+              106.69495949368927,
+              10.776691979865895,
+              23.1
+            ],
+            [
+              106.69499624772646,
+              10.776732079436202,
+              23.1
+            ],
+            [
+              106.69513911589708,
+              10.776605709045073,
+              23.1
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "570",
+        "blockName": "Mái sau",
+        "height": 0.5,
+        "sourceId": "570",
+        "sourceFile": "rear-wing-roof.geojson",
+        "componentId": "rear-wing-roof",
+        "componentName": "Rear wing roof",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 roof details",
+        "lod3Evidence": "Terrace roof panels, rear terrace roof panels, rear wing roof, and roof detail extras are modeled separately."
+      }
+    },
+    {
+      "id": "unused-roof-401",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69574275165768,
+              10.776894685744875,
+              35.7
+            ],
+            [
+              106.69567471911651,
+              10.776954862098604,
+              35.7
+            ],
+            [
+              106.69561346238233,
+              10.776888029472804,
+              35.7
+            ],
+            [
+              106.69568149490833,
+              10.776827853119073,
+              35.7
+            ],
+            [
+              106.69568455774585,
+              10.776831194750049,
+              35.7
+            ],
+            [
+              106.69561992684608,
+              10.776888362286442,
+              35.7
+            ],
+            [
+              106.69567505794258,
+              10.77694851163938,
+              35.7
+            ],
+            [
+              106.69573968884296,
+              10.776891344089595,
+              35.7
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "401",
+        "blockName": "Mái sân thượng",
+        "height": 2,
+        "sourceId": "401",
+        "sourceFile": "discarded.geojson",
+        "componentId": "unused-roof-details",
+        "componentName": "Unused roof details",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 roof details",
+        "lod3Evidence": "Terrace roof panels, rear terrace roof panels, rear wing roof, and roof detail extras are modeled separately."
+      }
+    },
+    {
+      "id": "unused-roof-402",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69529373660158,
+              10.777291849390593,
+              35.7
+            ],
+            [
+              106.69523247975789,
+              10.777225016776821,
+              35.7
+            ],
+            [
+              106.69516444714212,
+              10.777285193130547,
+              35.7
+            ],
+            [
+              106.69516750998433,
+              10.777288534761523,
+              35.7
+            ],
+            [
+              106.69523214095776,
+              10.777231367211735,
+              35.7
+            ],
+            [
+              106.69528727211706,
+              10.777291516564674,
+              35.7
+            ],
+            [
+              106.69522264111846,
+              10.777348684101067,
+              35.7
+            ],
+            [
+              106.69522570396128,
+              10.777352025732043,
+              35.7
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "402",
+        "blockName": "Mái sân thượng",
+        "height": 2,
+        "sourceId": "402",
+        "sourceFile": "discarded.geojson",
+        "componentId": "unused-roof-details",
+        "componentName": "Unused roof details",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 roof details",
+        "lod3Evidence": "Terrace roof panels, rear terrace roof panels, rear wing roof, and roof detail extras are modeled separately."
+      }
+    },
+    {
+      "id": "unused-roof-403",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69535050690628,
+              10.777078264479115,
+              36.7
+            ],
+            [
+              106.69545255567303,
+              10.77698799985949,
+              36.7
+            ],
+            [
+              106.69555975508297,
+              10.777104956925697,
+              36.7
+            ],
+            [
+              106.69545770618981,
+              10.777195221450725,
+              36.7
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "403",
+        "blockName": "Mái sân thượng",
+        "height": 2,
+        "sourceId": "403",
+        "sourceFile": "discarded.geojson",
+        "componentId": "unused-roof-details",
+        "componentName": "Unused roof details",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 roof details",
+        "lod3Evidence": "Terrace roof panels, rear terrace roof panels, rear wing roof, and roof detail extras are modeled separately."
+      }
+    }
+  ]
+}

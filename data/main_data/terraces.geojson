@@ -1,0 +1,586 @@
+{
+  "type": "FeatureCollection",
+  "lodLevel": "LoD3",
+  "lod3Category": "LoD3 terraces",
+  "lod3Evidence": "Front, main, and rear terrace floors, trims, railings, and support beams are individual objects.",
+  "timestamp": "2026-04-29T17:07:16.111Z",
+  "features": [
+    {
+      "id": "front-terrace-floor-base-394",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69525022080083,
+              10.777439255270648,
+              35.2
+            ],
+            [
+              106.69506645030208,
+              10.777238757357148,
+              35.2
+            ],
+            [
+              106.69516849917937,
+              10.777148492798734,
+              35.2
+            ],
+            [
+              106.69519912759006,
+              10.777181909107123,
+              35.2
+            ],
+            [
+              106.69557330627558,
+              10.776850938823658,
+              35.2
+            ],
+            [
+              106.69554267790201,
+              10.77681752251226,
+              35.2
+            ],
+            [
+              106.6956447266365,
+              10.776727257953844,
+              35.2
+            ],
+            [
+              106.69582849694541,
+              10.776927755759074,
+              35.2
+            ],
+            [
+              106.69525022080083,
+              10.777439255270648,
+              35.2
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "394",
+        "blockName": "Tầng hầm sân thượng tòa trước",
+        "height": 0.55,
+        "sourceId": "394",
+        "sourceFile": "front-terrace-floor-base.geojson",
+        "componentId": "front-terrace-floor-base",
+        "componentName": "Front terrace floor",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 terraces",
+        "lod3Evidence": "Front, main, and rear terrace floors, trims, railings, and support beams are individual objects."
+      }
+    },
+    {
+      "id": "front-terrace-floor-trim-395",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69524681916826,
+              10.777442264088686,
+              35.2
+            ],
+            [
+              106.69505998582804,
+              10.777238424542375,
+              35.2
+            ],
+            [
+              106.69516883796157,
+              10.777142142345548,
+              35.2
+            ],
+            [
+              106.69519946637166,
+              10.777175558653937,
+              35.2
+            ],
+            [
+              106.69556684196641,
+              10.77685060608739,
+              35.2
+            ],
+            [
+              106.69553621359287,
+              10.776817189775992,
+              35.2
+            ],
+            [
+              106.69564506557401,
+              10.776720907579165,
+              35.2
+            ],
+            [
+              106.6958349615601,
+              10.776928088642704,
+              35.2
+            ],
+            [
+              106.69524988075268,
+              10.777445604799837,
+              35.2
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "395",
+        "blockName": "Viền bao quanh sân thượng tòa trước",
+        "height": 0.5,
+        "sourceId": "395",
+        "sourceFile": "front-terrace-floor-trim.geojson",
+        "componentId": "front-terrace-floor-trim",
+        "componentName": "Front terrace trim",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 terraces",
+        "lod3Evidence": "Front, main, and rear terrace floors, trims, railings, and support beams are individual objects."
+      }
+    },
+    {
+      "id": "main-terrace-floor-396",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6951634173415,
+              10.777243749528381,
+              35.7
+            ],
+            [
+              106.69527061684254,
+              10.777360706594589,
+              35.7
+            ],
+            [
+              106.69574684460592,
+              10.776939471702997,
+              35.7
+            ],
+            [
+              106.69563964491986,
+              10.776822514636795,
+              35.7
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "396",
+        "blockName": "Sân thượng",
+        "height": 1,
+        "sourceId": "396",
+        "sourceFile": "main-terrace-floor.geojson",
+        "componentId": "main-terrace-floor",
+        "componentName": "Main terrace floor",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 terraces",
+        "lod3Evidence": "Front, main, and rear terrace floors, trims, railings, and support beams are individual objects."
+      }
+    },
+    {
+      "id": "main-terrace-trim-397",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6951569528694,
+              10.777243416715418,
+              36.7
+            ],
+            [
+              106.69563998368872,
+              10.776816164177257,
+              36.7
+            ],
+            [
+              106.6957533087171,
+              10.776939804503279,
+              36.7
+            ],
+            [
+              106.69527027701385,
+              10.777367056293418,
+              36.7
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "397",
+        "blockName": "Viền bao quanh",
+        "height": 0.15,
+        "sourceId": "397",
+        "sourceFile": "main-terrace-trim.geojson",
+        "componentId": "main-terrace-trim",
+        "componentName": "Main terrace trim",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 terraces",
+        "lod3Evidence": "Front, main, and rear terrace floors, trims, railings, and support beams are individual objects."
+      }
+    },
+    {
+      "id": "rear-terrace-floor-415",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69530117644813,
+              10.777091644548708,
+              33.6
+            ],
+            [
+              106.69516334871022,
+              10.776941271123736,
+              33.6
+            ],
+            [
+              106.69512933243782,
+              10.776971359302454,
+              33.6
+            ],
+            [
+              106.69494556222469,
+              10.776770861388956,
+              33.6
+            ],
+            [
+              106.69518367580639,
+              10.776560244034055,
+              33.6
+            ],
+            [
+              106.69536744601332,
+              10.776760741839285,
+              33.6
+            ],
+            [
+              106.69533342976126,
+              10.776790830018003,
+              33.6
+            ],
+            [
+              106.69547125749915,
+              10.776941203382075,
+              33.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "415",
+        "blockName": "Sân thượng",
+        "height": 0.1,
+        "sourceId": "415",
+        "sourceFile": "rear-terrace-floor.geojson",
+        "componentId": "rear-terrace-floor",
+        "componentName": "Rear terrace floor",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 terraces",
+        "lod3Evidence": "Front, main, and rear terrace floors, trims, railings, and support beams are individual objects."
+      }
+    },
+    {
+      "id": "rear-terrace-railing-416",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69546989685652,
+              10.77694240691314,
+              33.6
+            ],
+            [
+              106.6953308439827,
+              10.776790696897214,
+              33.6
+            ],
+            [
+              106.69536486023476,
+              10.776760608718492,
+              33.6
+            ],
+            [
+              106.69518354029726,
+              10.77656278421662,
+              33.6
+            ],
+            [
+              106.69494814801158,
+              10.776770994515012,
+              33.6
+            ],
+            [
+              106.6951294679553,
+              10.776968819122285,
+              33.6
+            ],
+            [
+              106.6951634842274,
+              10.776938730943566,
+              33.6
+            ],
+            [
+              106.6953025370996,
+              10.777090441021482,
+              33.6
+            ],
+            [
+              106.69530117644813,
+              10.777091644548708,
+              33.6
+            ],
+            [
+              106.69516334871022,
+              10.776941271123736,
+              33.6
+            ],
+            [
+              106.69512933243782,
+              10.776971359302454,
+              33.6
+            ],
+            [
+              106.69494556222469,
+              10.776770861388956,
+              33.6
+            ],
+            [
+              106.69518367580639,
+              10.776560244034055,
+              33.6
+            ],
+            [
+              106.69536744601332,
+              10.776760741839285,
+              33.6
+            ],
+            [
+              106.69533342976126,
+              10.776790830018003,
+              33.6
+            ],
+            [
+              106.69547125749915,
+              10.776941203382075,
+              33.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "416",
+        "blockName": "Lan can",
+        "height": 0.7,
+        "sourceId": "416",
+        "sourceFile": "rear-terrace-railing.geojson",
+        "componentId": "rear-terrace-railing",
+        "componentName": "Rear terrace railing",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 terraces",
+        "lod3Evidence": "Front, main, and rear terrace floors, trims, railings, and support beams are individual objects."
+      }
+    },
+    {
+      "id": "rear-terrace-trim-417",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69547465910574,
+              10.776938194554068,
+              33.1
+            ],
+            [
+              106.6953398942079,
+              10.776791162819647,
+              33.1
+            ],
+            [
+              106.69537391045995,
+              10.77676107464093,
+              33.1
+            ],
+            [
+              106.69518401457924,
+              10.77655389357739,
+              33.1
+            ],
+            [
+              106.69493909775747,
+              10.776770528573673,
+              33.1
+            ],
+            [
+              106.6951289936442,
+              10.776977709752817,
+              33.1
+            ],
+            [
+              106.69516300991734,
+              10.7769476215741,
+              33.1
+            ],
+            [
+              106.69529777481944,
+              10.777094653366746,
+              33.1
+            ],
+            [
+              106.69530117644813,
+              10.777091644548708,
+              33.1
+            ],
+            [
+              106.69516334871022,
+              10.776941271123736,
+              33.1
+            ],
+            [
+              106.69512933243782,
+              10.776971359302454,
+              33.1
+            ],
+            [
+              106.69494556222469,
+              10.776770861388956,
+              33.1
+            ],
+            [
+              106.69518367580639,
+              10.776560244034055,
+              33.1
+            ],
+            [
+              106.69536744601332,
+              10.776760741839285,
+              33.1
+            ],
+            [
+              106.69533342976126,
+              10.776790830018003,
+              33.1
+            ],
+            [
+              106.69547125749915,
+              10.776941203382075,
+              33.1
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "417",
+        "blockName": "Viền bao quanh",
+        "height": 0.5,
+        "sourceId": "417",
+        "sourceFile": "rear-terrace-trim.geojson",
+        "componentId": "rear-terrace-trim",
+        "componentName": "Rear terrace trim",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 terraces",
+        "lod3Evidence": "Front, main, and rear terrace floors, trims, railings, and support beams are individual objects."
+      }
+    },
+    {
+      "id": "rear-terrace-support-beam-418",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69518097937049,
+              10.776671543326852,
+              33.6
+            ],
+            [
+              106.69522860207253,
+              10.776629419842887,
+              33.6
+            ],
+            [
+              106.69527148183289,
+              10.776676202679688,
+              33.6
+            ],
+            [
+              106.69522385912344,
+              10.776718326163653,
+              33.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "418",
+        "blockName": "Mái sân thượng sau",
+        "height": 2.5,
+        "sourceId": "418",
+        "sourceFile": "rear-terrace-support-beam.geojson",
+        "componentId": "rear-terrace-support-beam",
+        "componentName": "Rear terrace support beam",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 terraces",
+        "lod3Evidence": "Front, main, and rear terrace floors, trims, railings, and support beams are individual objects."
+      }
+    },
+    {
+      "id": "rear-terrace-support-beam-419",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69501089817626,
+              10.776821984287555,
+              33.6
+            ],
+            [
+              106.69505852092593,
+              10.776779860829558,
+              33.6
+            ],
+            [
+              106.69510140066646,
+              10.77682664366046,
+              33.6
+            ],
+            [
+              106.69505377790937,
+              10.776868767118458,
+              33.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "419",
+        "blockName": "Mái sân thượng sau",
+        "height": 2.5,
+        "sourceId": "419",
+        "sourceFile": "rear-terrace-support-beam.geojson",
+        "componentId": "rear-terrace-support-beam",
+        "componentName": "Rear terrace support beam",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 terraces",
+        "lod3Evidence": "Front, main, and rear terrace floors, trims, railings, and support beams are individual objects."
+      }
+    }
+  ]
+}

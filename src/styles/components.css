@@ -1,0 +1,84 @@
+html * {
+  box-sizing: border-box;
+  outline: none;
+}
+
+#mapControls,
+#cameraInfo {
+  background: linear-gradient(180deg, var(--surface-strong), var(--surface-soft));
+  border: 1px solid var(--surface-border);
+  box-shadow: var(--shadow-soft);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+}
+
+#mapControls {
+  width: 260px;
+  padding: 14px;
+  display: grid;
+  gap: 10px;
+  border-radius: var(--radius-lg);
+}
+
+#mapControls label {
+  display: block;
+  color: var(--text-secondary);
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+#basemapControl {
+  width: 100%;
+  padding: 12px 14px;
+  border: 1px solid rgba(145, 122, 79, 0.34);
+  border-radius: var(--radius-md);
+  background: rgba(255, 252, 244, 0.92);
+  color: var(--text-primary);
+  cursor: pointer;
+  font: inherit;
+}
+
+#basemapControl:focus,
+#resetViewBtn:focus {
+  box-shadow: var(--shadow-focus);
+}
+
+#basemapControl option {
+  background: #fffaf0;
+  color: var(--text-primary);
+}
+
+#resetViewBtn {
+  padding: 12px 18px;
+  border: none;
+  border-radius: var(--radius-md);
+  background: linear-gradient(135deg, rgba(107, 127, 85, 0.96), rgba(82, 106, 65, 0.94));
+  color: white;
+  cursor: pointer;
+  font: inherit;
+  font-weight: 600;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, filter 0.2s ease;
+}
+
+#resetViewBtn:hover {
+  transform: translateY(-1px);
+  filter: brightness(1.06);
+}
+
+#cameraInfo {
+  min-width: 220px;
+  padding: 14px 16px;
+  border-radius: var(--radius-lg);
+  color: var(--text-primary);
+  font-size: 0.92rem;
+  line-height: 1.55;
+}
+
+@media only screen and (max-width: 700px) {
+  #mapControls,
+  #cameraInfo {
+    width: auto;
+    min-width: 0;
+  }
+}

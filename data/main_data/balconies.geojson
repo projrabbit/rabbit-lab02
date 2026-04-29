@@ -1,0 +1,661 @@
+{
+  "type": "FeatureCollection",
+  "lodLevel": "LoD3",
+  "lod3Category": "LoD3 balconies",
+  "lod3Evidence": "Balcony floors, railings, roof, guards, and glass columns are separated into distinct details.",
+  "timestamp": "2026-04-29T17:07:16.109Z",
+  "features": [
+    {
+      "id": "front-balcony-floor-123",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69559038290632,
+              10.777138372932203,
+              23.6
+            ],
+            [
+              106.69548833398466,
+              10.777228637454222,
+              23.6
+            ],
+            [
+              106.69549752252072,
+              10.777238662350063,
+              23.6
+            ],
+            [
+              106.69559957142855,
+              10.777148397825036,
+              23.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "123",
+        "blockName": "Mặt thềm",
+        "height": 0.5,
+        "sourceId": "123",
+        "sourceFile": "front-balcony-floor.geojson",
+        "componentId": "front-balcony-floor",
+        "componentName": "Front balcony floor",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 balconies",
+        "lod3Evidence": "Balcony floors, railings, roof, guards, and glass columns are separated into distinct details."
+      }
+    },
+    {
+      "id": "front-balcony-railing-124",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69559038290632,
+              10.777138372932203,
+              24.25
+            ],
+            [
+              106.69558698127713,
+              10.777141381750242,
+              24.25
+            ],
+            [
+              106.69559310695858,
+              10.77714806501216,
+              24.25
+            ],
+            [
+              106.6954978613132,
+              10.777232311903227,
+              24.25
+            ],
+            [
+              106.69549173563024,
+              10.777225628641188,
+              24.25
+            ],
+            [
+              106.69548833398466,
+              10.777228637454222,
+              24.25
+            ],
+            [
+              106.69549752252072,
+              10.777238662350063,
+              24.25
+            ],
+            [
+              106.69559957142855,
+              10.777148397825036,
+              24.25
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "124",
+        "blockName": "Lan can",
+        "height": 0.8,
+        "sourceId": "124",
+        "sourceFile": "front-balcony-railing.geojson",
+        "componentId": "front-balcony-railing",
+        "componentName": "Front balcony railing",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 balconies",
+        "lod3Evidence": "Balcony floors, railings, roof, guards, and glass columns are separated into distinct details."
+      }
+    },
+    {
+      "id": "front-balcony-roof-425",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69559038290632,
+              10.777138372932203,
+              29.6
+            ],
+            [
+              106.69548833398466,
+              10.777228637454222,
+              29.6
+            ],
+            [
+              106.69549752252072,
+              10.777238662350063,
+              29.6
+            ],
+            [
+              106.69559957142855,
+              10.777148397825036,
+              29.6
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "425",
+        "blockName": "Mái ban công tòa trước",
+        "height": 1,
+        "sourceId": "425",
+        "sourceFile": "front-balcony-roof.geojson",
+        "componentId": "front-balcony-roof",
+        "componentName": "Front balcony roof",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 balconies",
+        "lod3Evidence": "Balcony floors, railings, roof, guards, and glass columns are separated into distinct details."
+      }
+    },
+    {
+      "id": "upper-terrace-railing-398",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69563828427155,
+              10.776823718166094,
+              36.7
+            ],
+            [
+              106.6951634173415,
+              10.777243749528381,
+              36.7
+            ],
+            [
+              106.69527061684254,
+              10.777360706594589,
+              36.7
+            ],
+            [
+              106.69574684460592,
+              10.776939471702997,
+              36.7
+            ],
+            [
+              106.69563964491986,
+              10.776822514636795,
+              36.7
+            ],
+            [
+              106.69563828426962,
+              10.776823718164016,
+              36.7
+            ],
+            [
+              106.6957442584852,
+              10.776939338578247,
+              36.7
+            ],
+            [
+              106.69527075136473,
+              10.77735816569243,
+              36.7
+            ],
+            [
+              106.69516600217861,
+              10.777243881895004,
+              36.7
+            ],
+            [
+              106.69564086910884,
+              10.776823850532715,
+              36.7
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "398",
+        "blockName": "Mái sân thượng tòa trước",
+        "height": 0.7,
+        "sourceId": "398",
+        "sourceFile": "upper-terrace-railing.geojson",
+        "componentId": "upper-terrace-railing",
+        "componentName": "Upper terrace railing",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 balconies",
+        "lod3Evidence": "Balcony floors, railings, roof, guards, and glass columns are separated into distinct details."
+      }
+    },
+    {
+      "id": "terrace-glass-guard-405",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69568115610852,
+              10.776834203555401,
+              35.7
+            ],
+            [
+              106.69561992684608,
+              10.776888362286442,
+              35.7
+            ],
+            [
+              106.69567505794258,
+              10.77694851163938,
+              35.7
+            ],
+            [
+              106.69573628719505,
+              10.776894352908336,
+              35.7
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "405",
+        "blockName": "Cửa sổ",
+        "height": 2,
+        "sourceId": "405",
+        "sourceFile": "terrace-glass-guard.geojson",
+        "componentId": "terrace-glass-guard",
+        "componentName": "Terrace glass guard",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 balconies",
+        "lod3Evidence": "Balcony floors, railings, roof, guards, and glass columns are separated into distinct details."
+      }
+    },
+    {
+      "id": "terrace-glass-guard-406",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69517091160353,
+              10.77728552593076,
+              35.7
+            ],
+            [
+              106.69523214095776,
+              10.777231367211735,
+              35.7
+            ],
+            [
+              106.69528727211706,
+              10.777291516564674,
+              35.7
+            ],
+            [
+              106.69522604275059,
+              10.777345675283698,
+              35.7
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "406",
+        "blockName": "Cửa sổ",
+        "height": 2,
+        "sourceId": "406",
+        "sourceFile": "terrace-glass-guard.geojson",
+        "componentId": "terrace-glass-guard",
+        "componentName": "Terrace glass guard",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 balconies",
+        "lod3Evidence": "Balcony floors, railings, roof, guards, and glass columns are separated into distinct details."
+      }
+    },
+    {
+      "id": "terrace-glass-columns-407",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69534928177026,
+              10.77707692782672,
+              36.7
+            ],
+            [
+              106.69535268339862,
+              10.777073919008643,
+              36.7
+            ],
+            [
+              106.69546233311563,
+              10.777193549378794,
+              36.7
+            ],
+            [
+              106.69545893148583,
+              10.777196558196868,
+              36.7
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "407",
+        "blockName": "Cột nhà",
+        "height": 2,
+        "sourceId": "407",
+        "sourceFile": "terrace-glass-columns.geojson",
+        "componentId": "terrace-glass-columns",
+        "componentName": "Terrace glass columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 balconies",
+        "lod3Evidence": "Balcony floors, railings, roof, guards, and glass columns are separated into distinct details."
+      }
+    },
+    {
+      "id": "terrace-glass-columns-408",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69538159723734,
+              10.777048344053501,
+              36.7
+            ],
+            [
+              106.69538499886511,
+              10.777045335235073,
+              36.7
+            ],
+            [
+              106.69549464859483,
+              10.77716496560522,
+              36.7
+            ],
+            [
+              106.69549124696573,
+              10.77716797442365,
+              36.7
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "408",
+        "blockName": "Cột nhà",
+        "height": 2,
+        "sourceId": "408",
+        "sourceFile": "terrace-glass-columns.geojson",
+        "componentId": "terrace-glass-columns",
+        "componentName": "Terrace glass columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 balconies",
+        "lod3Evidence": "Balcony floors, railings, roof, guards, and glass columns are separated into distinct details."
+      }
+    },
+    {
+      "id": "terrace-glass-columns-409",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69541561351178,
+              10.77701825586755,
+              36.7
+            ],
+            [
+              106.69541901513895,
+              10.777015247048748,
+              36.7
+            ],
+            [
+              106.69552866488219,
+              10.777134877418897,
+              36.7
+            ],
+            [
+              106.69552526325371,
+              10.777137886237696,
+              36.7
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "409",
+        "blockName": "Cột nhà",
+        "height": 2,
+        "sourceId": "409",
+        "sourceFile": "terrace-glass-columns.geojson",
+        "componentId": "terrace-glass-columns",
+        "componentName": "Terrace glass columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 balconies",
+        "lod3Evidence": "Balcony floors, railings, roof, guards, and glass columns are separated into distinct details."
+      }
+    },
+    {
+      "id": "terrace-glass-columns-410",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69544792896626,
+              10.776989672087458,
+              36.7
+            ],
+            [
+              106.69545133059268,
+              10.776986663268303,
+              36.7
+            ],
+            [
+              106.69556098034886,
+              10.777106293638454,
+              36.7
+            ],
+            [
+              106.6955575787211,
+              10.777109302457605,
+              36.7
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "410",
+        "blockName": "Cột nhà",
+        "height": 2,
+        "sourceId": "410",
+        "sourceFile": "terrace-glass-columns.geojson",
+        "componentId": "terrace-glass-columns",
+        "componentName": "Terrace glass columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 balconies",
+        "lod3Evidence": "Balcony floors, railings, roof, guards, and glass columns are separated into distinct details."
+      }
+    },
+    {
+      "id": "terrace-glass-columns-411",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69534914625491,
+              10.777079468006335,
+              36.7
+            ],
+            [
+              106.69535220909499,
+              10.777082809637308,
+              36.7
+            ],
+            [
+              106.6954569792185,
+              10.776990138023544,
+              36.7
+            ],
+            [
+              106.69545391637936,
+              10.77698679639257,
+              36.7
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "411",
+        "blockName": "Cột nhà",
+        "height": 2,
+        "sourceId": "411",
+        "sourceFile": "terrace-glass-columns.geojson",
+        "componentId": "terrace-glass-columns",
+        "componentName": "Terrace glass columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 balconies",
+        "lod3Evidence": "Balcony floors, railings, roof, guards, and glass columns are separated into distinct details."
+      }
+    },
+    {
+      "id": "terrace-glass-columns-412",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69537824323821,
+              10.777111213499378,
+              36.7
+            ],
+            [
+              106.69538130607889,
+              10.777114555130064,
+              36.7
+            ],
+            [
+              106.69548607619346,
+              10.777021883516301,
+              36.7
+            ],
+            [
+              106.69548301335371,
+              10.777018541885614,
+              36.7
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "412",
+        "blockName": "Cột nhà",
+        "height": 2,
+        "sourceId": "412",
+        "sourceFile": "terrace-glass-columns.geojson",
+        "componentId": "terrace-glass-columns",
+        "componentName": "Terrace glass columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 balconies",
+        "lod3Evidence": "Balcony floors, railings, roof, guards, and glass columns are separated into distinct details."
+      }
+    },
+    {
+      "id": "terrace-glass-columns-413",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69542418585594,
+              10.77716133795655,
+              36.7
+            ],
+            [
+              106.69542724869764,
+              10.777164679586786,
+              36.7
+            ],
+            [
+              106.69553201879808,
+              10.777072007973022,
+              36.7
+            ],
+            [
+              106.6955289559573,
+              10.777068666342785,
+              36.7
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "413",
+        "blockName": "Cột nhà",
+        "height": 2,
+        "sourceId": "413",
+        "sourceFile": "terrace-glass-columns.geojson",
+        "componentId": "terrace-glass-columns",
+        "componentName": "Terrace glass columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 balconies",
+        "lod3Evidence": "Balcony floors, railings, roof, guards, and glass columns are separated into distinct details."
+      }
+    },
+    {
+      "id": "terrace-glass-columns-414",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.69545328285511,
+              10.777193083442588,
+              36.7
+            ],
+            [
+              106.69545634569741,
+              10.777196425072542,
+              36.7
+            ],
+            [
+              106.69556111578889,
+              10.77710375345878,
+              36.7
+            ],
+            [
+              106.69555805294752,
+              10.777100411828826,
+              36.7
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "414",
+        "blockName": "Cột nhà",
+        "height": 2,
+        "sourceId": "414",
+        "sourceFile": "terrace-glass-columns.geojson",
+        "componentId": "terrace-glass-columns",
+        "componentName": "Terrace glass columns",
+        "lodLevel": "LoD3",
+        "lod3Category": "LoD3 balconies",
+        "lod3Evidence": "Balcony floors, railings, roof, guards, and glass columns are separated into distinct details."
+      }
+    }
+  ]
+}

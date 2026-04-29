@@ -1,0 +1,14 @@
+:root {
+  --font-family: "Inter", Arial, Helvetica, sans-serif;
+  --text-primary: #2f2a1f;
+  --text-secondary: #6f624b;
+  --surface-strong: rgba(255, 252, 244, 0.94);
+  --surface-soft: rgba(242, 234, 214, 0.86);
+  --surface-border: rgba(145, 122, 79, 0.28);
+  --shadow-soft: 0 18px 38px rgba(74, 62, 40, 0.16);
+  --shadow-focus: 0 0 0 3px rgba(107, 127, 85, 0.24);
+  --accent: #6b7f55;
+  --accent-hover: #526a41;
+  --radius-md: 14px;
+  --radius-lg: 18px;
+}

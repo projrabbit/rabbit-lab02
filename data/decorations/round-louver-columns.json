@@ -1,0 +1,3170 @@
+[
+  {
+    "type": "point",
+    "x": 106.6957214138863,
+    "y": 10.777023279943739,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-450"
+  },
+  {
+    "type": "point",
+    "x": 106.6957146106304,
+    "y": 10.777029297579661,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-451"
+  },
+  {
+    "type": "point",
+    "x": 106.69570780737425,
+    "y": 10.777035315215434,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-452"
+  },
+  {
+    "type": "point",
+    "x": 106.69569896314081,
+    "y": 10.777043138141716,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-453"
+  },
+  {
+    "type": "point",
+    "x": 106.6956928402097,
+    "y": 10.777048554013614,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-454"
+  },
+  {
+    "type": "point",
+    "x": 106.69568671727839,
+    "y": 10.777053969885388,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-455"
+  },
+  {
+    "type": "point",
+    "x": 106.69567787304383,
+    "y": 10.777061792811073,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-456"
+  },
+  {
+    "type": "point",
+    "x": 106.69567175011198,
+    "y": 10.777067208682556,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-457"
+  },
+  {
+    "type": "point",
+    "x": 106.69566562717989,
+    "y": 10.777072624553917,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-458"
+  },
+  {
+    "type": "point",
+    "x": 106.69565678294427,
+    "y": 10.777080447479005,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-459"
+  },
+  {
+    "type": "point",
+    "x": 106.69565066001167,
+    "y": 10.777085863350074,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-460"
+  },
+  {
+    "type": "point",
+    "x": 106.69564453707885,
+    "y": 10.77709127922102,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-461"
+  },
+  {
+    "type": "point",
+    "x": 106.69563569284207,
+    "y": 10.777099102145511,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-462"
+  },
+  {
+    "type": "point",
+    "x": 106.69562956990868,
+    "y": 10.777104518016163,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-463"
+  },
+  {
+    "type": "point",
+    "x": 106.6956234469751,
+    "y": 10.777109933886697,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-464"
+  },
+  {
+    "type": "point",
+    "x": 106.69561460273727,
+    "y": 10.77711775681059,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-465"
+  },
+  {
+    "type": "point",
+    "x": 106.69560847980313,
+    "y": 10.77712317268083,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-466"
+  },
+  {
+    "type": "point",
+    "x": 106.69560235686876,
+    "y": 10.777128588550948,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-467"
+  },
+  {
+    "type": "point",
+    "x": 106.69559215197768,
+    "y": 10.77713761500088,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-468"
+  },
+  {
+    "type": "point",
+    "x": 106.69558602904269,
+    "y": 10.77714303087068,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-469"
+  },
+  {
+    "type": "point",
+    "x": 106.69535778047681,
+    "y": 10.777344922931555,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-470"
+  },
+  {
+    "type": "point",
+    "x": 106.69536458373949,
+    "y": 10.777338905295231,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-471"
+  },
+  {
+    "type": "point",
+    "x": 106.69537138700187,
+    "y": 10.777332887658762,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-472"
+  },
+  {
+    "type": "point",
+    "x": 106.69538159189491,
+    "y": 10.777323861203778,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-473"
+  },
+  {
+    "type": "point",
+    "x": 106.6953877148305,
+    "y": 10.777318445330625,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-474"
+  },
+  {
+    "type": "point",
+    "x": 106.69539383776586,
+    "y": 10.777313029457355,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-475"
+  },
+  {
+    "type": "point",
+    "x": 106.69540268200538,
+    "y": 10.777305206529084,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-476"
+  },
+  {
+    "type": "point",
+    "x": 106.69540880494019,
+    "y": 10.777299790655519,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-477"
+  },
+  {
+    "type": "point",
+    "x": 106.6954147010994,
+    "y": 10.777294575369751,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-478"
+  },
+  {
+    "type": "point",
+    "x": 106.6954237721132,
+    "y": 10.777286551852963,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-479"
+  },
+  {
+    "type": "point",
+    "x": 106.69542989504725,
+    "y": 10.777281135978985,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-480"
+  },
+  {
+    "type": "point",
+    "x": 106.69543579120574,
+    "y": 10.777275920692821,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-481"
+  },
+  {
+    "type": "point",
+    "x": 106.69544350156654,
+    "y": 10.777269100703046,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-482"
+  },
+  {
+    "type": "point",
+    "x": 106.69544962449987,
+    "y": 10.77726368482868,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-483"
+  },
+  {
+    "type": "point",
+    "x": 106.69545574743302,
+    "y": 10.777258268954194,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-484"
+  },
+  {
+    "type": "point",
+    "x": 106.69546459166929,
+    "y": 10.777250446024167,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-485"
+  },
+  {
+    "type": "point",
+    "x": 106.6954707146019,
+    "y": 10.777245030149386,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-486"
+  },
+  {
+    "type": "point",
+    "x": 106.69547683753423,
+    "y": 10.777239614274485,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-487"
+  },
+  {
+    "type": "point",
+    "x": 106.69548704242104,
+    "y": 10.777230587816048,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-488"
+  },
+  {
+    "type": "point",
+    "x": 106.69549316535281,
+    "y": 10.777225171940826,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-489"
+  },
+  {
+    "type": "point",
+    "x": 106.6952034814926,
+    "y": 10.777177251210993,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-490"
+  },
+  {
+    "type": "point",
+    "x": 106.69521164540328,
+    "y": 10.777170030047426,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-491"
+  },
+  {
+    "type": "point",
+    "x": 106.69521980931353,
+    "y": 10.777162808883643,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-492"
+  },
+  {
+    "type": "point",
+    "x": 106.69522797322338,
+    "y": 10.777155587719644,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-493"
+  },
+  {
+    "type": "point",
+    "x": 106.69523749778445,
+    "y": 10.777147163028046,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-494"
+  },
+  {
+    "type": "point",
+    "x": 106.69524566169343,
+    "y": 10.777139941863586,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-495"
+  },
+  {
+    "type": "point",
+    "x": 106.6952538256021,
+    "y": 10.777132720698912,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-496"
+  },
+  {
+    "type": "point",
+    "x": 106.6952619895103,
+    "y": 10.777125499534026,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-497"
+  },
+  {
+    "type": "point",
+    "x": 106.69527151406939,
+    "y": 10.777117074841389,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-498"
+  },
+  {
+    "type": "point",
+    "x": 106.69527967797683,
+    "y": 10.77710985367604,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-499"
+  },
+  {
+    "type": "point",
+    "x": 106.69528784188381,
+    "y": 10.777102632510475,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-500"
+  },
+  {
+    "type": "point",
+    "x": 106.69529600579045,
+    "y": 10.777095411344698,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-501"
+  },
+  {
+    "type": "point",
+    "x": 106.69529582235347,
+    "y": 10.777086699114816,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-502"
+  },
+  {
+    "type": "point",
+    "x": 106.69528785896964,
+    "y": 10.777078010874018,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-503"
+  },
+  {
+    "type": "point",
+    "x": 106.69527989558618,
+    "y": 10.777069322633015,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-504"
+  },
+  {
+    "type": "point",
+    "x": 106.69527193220317,
+    "y": 10.777060634391809,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-505"
+  },
+  {
+    "type": "point",
+    "x": 106.69526213111709,
+    "y": 10.777049941171585,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-506"
+  },
+  {
+    "type": "point",
+    "x": 106.69525416773516,
+    "y": 10.777041252929925,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-507"
+  },
+  {
+    "type": "point",
+    "x": 106.69524620435368,
+    "y": 10.777032564688062,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-508"
+  },
+  {
+    "type": "point",
+    "x": 106.69523824097266,
+    "y": 10.777023876445996,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-509"
+  },
+  {
+    "type": "point",
+    "x": 106.69522721475354,
+    "y": 10.777011846572032,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-510"
+  },
+  {
+    "type": "point",
+    "x": 106.6952192513736,
+    "y": 10.77700315832948,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-511"
+  },
+  {
+    "type": "point",
+    "x": 106.69521128799417,
+    "y": 10.776994470086727,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-512"
+  },
+  {
+    "type": "point",
+    "x": 106.69520332461515,
+    "y": 10.77698578184377,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-513"
+  },
+  {
+    "type": "point",
+    "x": 106.6951929109664,
+    "y": 10.776974420294978,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-514"
+  },
+  {
+    "type": "point",
+    "x": 106.69518494758842,
+    "y": 10.776965732051552,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-515"
+  },
+  {
+    "type": "point",
+    "x": 106.69517698421093,
+    "y": 10.776957043807922,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-516"
+  },
+  {
+    "type": "point",
+    "x": 106.6951690208339,
+    "y": 10.77694835556409,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-517"
+  },
+  {
+    "type": "point",
+    "x": 106.69546681050772,
+    "y": 10.7769354555967,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-518"
+  },
+  {
+    "type": "point",
+    "x": 106.69545884712784,
+    "y": 10.776926767355901,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-519"
+  },
+  {
+    "type": "point",
+    "x": 106.6954508837484,
+    "y": 10.776918079114898,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-520"
+  },
+  {
+    "type": "point",
+    "x": 106.69544292036946,
+    "y": 10.776909390873692,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-521"
+  },
+  {
+    "type": "point",
+    "x": 106.69543311928827,
+    "y": 10.776898697653468,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-522"
+  },
+  {
+    "type": "point",
+    "x": 106.69542515591033,
+    "y": 10.776890009411808,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-523"
+  },
+  {
+    "type": "point",
+    "x": 106.69541719253283,
+    "y": 10.776881321169947,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-524"
+  },
+  {
+    "type": "point",
+    "x": 106.69540922915584,
+    "y": 10.77687263292788,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-525"
+  },
+  {
+    "type": "point",
+    "x": 106.69539820294223,
+    "y": 10.776860603053914,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-526"
+  },
+  {
+    "type": "point",
+    "x": 106.69539023956631,
+    "y": 10.776851914811363,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-527"
+  },
+  {
+    "type": "point",
+    "x": 106.69538227619088,
+    "y": 10.776843226568609,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-528"
+  },
+  {
+    "type": "point",
+    "x": 106.69537431281589,
+    "y": 10.776834538325652,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-529"
+  },
+  {
+    "type": "point",
+    "x": 106.69536389917226,
+    "y": 10.776823176776864,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-530"
+  },
+  {
+    "type": "point",
+    "x": 106.69535593579832,
+    "y": 10.776814488533436,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-531"
+  },
+  {
+    "type": "point",
+    "x": 106.69534797242486,
+    "y": 10.776805800289807,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-532"
+  },
+  {
+    "type": "point",
+    "x": 106.69534000905185,
+    "y": 10.776797112045973,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-533"
+  },
+  {
+    "type": "point",
+    "x": 106.69547561139825,
+    "y": 10.776936545485945,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-534"
+  },
+  {
+    "type": "point",
+    "x": 106.69548377530234,
+    "y": 10.776929324322376,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-535"
+  },
+  {
+    "type": "point",
+    "x": 106.69549193920608,
+    "y": 10.776922103158594,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-536"
+  },
+  {
+    "type": "point",
+    "x": 106.69550010310944,
+    "y": 10.776914881994596,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-537"
+  },
+  {
+    "type": "point",
+    "x": 106.6955096276628,
+    "y": 10.776906457303,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-538"
+  },
+  {
+    "type": "point",
+    "x": 106.69551779156535,
+    "y": 10.776899236138538,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-539"
+  },
+  {
+    "type": "point",
+    "x": 106.69552595546745,
+    "y": 10.776892014973864,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-540"
+  },
+  {
+    "type": "point",
+    "x": 106.69553434614421,
+    "y": 10.776884593221059,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-541"
+  },
+  {
+    "type": "point",
+    "x": 106.69554364392067,
+    "y": 10.77687636911634,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-542"
+  },
+  {
+    "type": "point",
+    "x": 106.69555180782152,
+    "y": 10.776869147950991,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-543"
+  },
+  {
+    "type": "point",
+    "x": 106.69555997172196,
+    "y": 10.776861926785427,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-544"
+  },
+  {
+    "type": "point",
+    "x": 106.69556813562207,
+    "y": 10.776854705619648,
+    "z": 23.1,
+    "spatialReference": {
+      "wkid": 4326
+    },
+    "symbol": {
+      "type": "point-3d",
+      "symbolLayers": [
+        {
+          "type": "object",
+          "resource": {
+            "primitive": "cylinder"
+          },
+          "width": 0.55,
+          "depth": 0.55,
+          "height": 10,
+          "material": {
+            "color": [
+              207,
+              190,
+              152,
+              1
+            ]
+          }
+        }
+      ]
+    },
+    "sourceFile": "round-louver-columns.json",
+    "decorationId": "round-louver-column-545"
+  }
+]
